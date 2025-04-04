@@ -1,0 +1,1510 @@
+Resultado: 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Placa    Atendimento  Data    Razão Social                             CNPJ            Telefone        Estado   Cidade         
+--------------------------------------------------------------------------------------------------------------------------------------------
+SWQ0B81  CORRETIVA    45351   Roque Sousa Barros 00434637114           43924675000130  61-33556752     DF       BRASÍLIA       
+SWQ0B81  CORRETIVA    45351   Roque Sousa Barros 00434637114           43924675000130  61-33556752     DF       BRASÍLIA       
+SWQ0B81  CORRETIVA    45351   Roque Sousa Barros 00434637114           43924675000130  61-33556752     DF       BRASÍLIA       
+SYG0E34  CORRETIVA    45343   Agis Comercio de Pneus Ltda              9017107000389   41-997609779    PR       CURITIBA       
+SUH8J70  SINISTRO     45355   Ademir Jose Basso                        79175303000103  41-33821500     PR       São José Dos Pinhais
+SUH8J70  SINISTRO     45355   Ademir Jose Basso                        79175303000103  41-33821500     PR       São José Dos Pinhais
+SUH8J70  SINISTRO     45355   Ademir Jose Basso                        79175303000103  41-33821500     PR       São José Dos Pinhais
+SUH8J70  SINISTRO     45355   Ademir Jose Basso                        79175303000103  41-33821500     PR       São José Dos Pinhais
+SUH8J70  SINISTRO     45355   Ademir Jose Basso                        79175303000103  41-33821500     PR       São José Dos Pinhais
+GGP0B71  SINISTRO     45350   *auto House Comercio de Auto Vidros Ltda - Epp 357481000197    71-33532156     BA       SALVADOR       
+SUG8B10  CORRETIVA    45350   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+SUG8B10  CORRETIVA    45343   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E93  CORRETIVA    45370   Aecio Serpa Teixeira 00902894048         45532388000100  48-999050802    SC       São José       
+SUX4B51  SINISTRO     45372   *pilkington Brasil Ltda                  61736732004479  51-39076162     RS       PORTO ALEGRE   
+SUX0G20  CORRETIVA    45377   Automac Macae Veiculos Ltda              35779529000130  22-21066005     RJ       Macaé          
+SUX0G20  CORRETIVA    45377   Automac Macae Veiculos Ltda              35779529000130  22-21066005     RJ       Macaé          
+SVA9C90  CORRETIVA    45363   Petromol Petrolina Motores Ltda          9554163000190   87-21012000     PE       PETROLINA      
+SYG0E35  CORRETIVA    45364   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45379   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+SSU6B31  SINISTRO     45383   Sekurit - So Vidros Ltda                 4698784000124   49-93331287     SC       Chapecó        
+SYG0C40  SINISTRO     45383   *auto House Comercio de Auto Vidros Ltda - Epp 357481000197    71-33532156     BA       SALVADOR       
+SSW1J31  SINISTRO     45357   Mg Vidros Automotivos Ltda               7571746006720   11-08002839026  SP       SÃO PAULO      
+SYG0E34  CORRETIVA    45363   Adriano Veng Reparacao Automotiva Ltda   44052703000139  41-992565893    PR       Curitiba       
+SYG0E33  CORRETIVA    45362   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+SYG0E33  CORRETIVA    45362   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+STL3E90  CORRETIVA    45365   J S Canuto Direçoes Hidraulicas Me - Caps 2155775000161   82-999530005    AL       ARAPIRACA      
+SWH3H61  SINISTRO     45377   *pointglass Automotivos Ltda             8223587000703   27-32320404     ES       Vitória        
+SUD7G71  CORRETIVA    45383   Unipecas Uniao Comercialde Pecas Ltda    75830653000105  48-32421742     SC       PALHOÇA        
+SUD7G71  CORRETIVA    45383   Unipecas Uniao Comercialde Pecas Ltda    75830653000105  48-32421742     SC       PALHOÇA        
+SUD7G71  CORRETIVA    45383   Unipecas Uniao Comercialde Pecas Ltda    75830653000105  48-32421742     SC       PALHOÇA        
+SYG0E30  CORRETIVA    45356   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SYG0E30  CORRETIVA    45356   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SYG0D49  CORRETIVA    45362   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SYG0C55  CORRETIVA    45358   Faria Jr Auto Mecanica Ltda              3135628000192   21-964026266    RJ       RIO DE JANEIRO 
+SYG0C55  CORRETIVA    45358   Faria Jr Auto Mecanica Ltda              3135628000192   21-964026266    RJ       RIO DE JANEIRO 
+STS4H50  CORRETIVA    45372   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+GGZ7F61  SINISTRO     45377   Hidrautig Maquinas E Implementos Ltda    46319152000152  81-30399913     PE       CABO DE SANTO AGOSTINHO
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SUJ1F80  SINISTRO     45359   Vitalizacar Recuperacao de Veiculos Ltda 46673168000169  34-991891506    MG       UBERLÂNDIA     
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E62  SINISTRO     45355   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SVC2E20  CORRETIVA    45369   Detroit Car Auto Servicos Ltda Me        41531138000102  86-33011500     PI       TERESINA       
+SVC2E20  CORRETIVA    45369   Detroit Car Auto Servicos Ltda Me        41531138000102  86-33011500     PI       TERESINA       
+SVC2E20  CORRETIVA    45369   Detroit Car Auto Servicos Ltda Me        41531138000102  86-33011500     PI       TERESINA       
+SVC2E20  CORRETIVA    45369   Detroit Car Auto Servicos Ltda Me        41531138000102  86-33011500     PI       TERESINA       
+SYG0E57  SINISTRO     45369   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SUH0I50  SINISTRO     45369   Amazon Multimarcas E Recuperadora de Veículos Ltda-me 24200469000132  65-33623149     MT       VÁRZEA GRANDE  
+SUH0I50  SINISTRO     45369   Amazon Multimarcas E Recuperadora de Veículos Ltda-me 24200469000132  65-33623149     MT       VÁRZEA GRANDE  
+SUH0I50  SINISTRO     45369   Amazon Multimarcas E Recuperadora de Veículos Ltda-me 24200469000132  65-33623149     MT       VÁRZEA GRANDE  
+SUH0I50  SINISTRO     45369   Amazon Multimarcas E Recuperadora de Veículos Ltda-me 24200469000132  65-33623149     MT       VÁRZEA GRANDE  
+SUH0I50  SINISTRO     45369   Amazon Multimarcas E Recuperadora de Veículos Ltda-me 24200469000132  65-33623149     MT       VÁRZEA GRANDE  
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+GJT0A81  SINISTRO     45369   Dufre Car Centro Automotivo Ltda - Epp   10940735000159  31-975372222    MG       BELO HORIZONTE 
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+SYG0E78  SINISTRO     45415   Lucas Alborghetti Dalcin                 29081325000128  55-996327930    RS       SANTA MARIA    
+GDE4G51  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008270  38-32216055     MG       MONTES CLAROS  
+GDE4G51  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008270  38-32216055     MG       MONTES CLAROS  
+SUY4C90  PREVENTIVA   45408   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUY4C90  PREVENTIVA   45408   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUY4C90  PREVENTIVA   45408   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SSX9A78  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SSX9A78  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SSX9A78  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SSX9A78  PREVENTIVA   45411   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SSX3A50  PREVENTIVA   45411   *rede Brasileira de Pneus Ltda           1603301000415   31-34747075     MG       BELO HORIZONTE 
+SSX3A50  PREVENTIVA   45411   *rede Brasileira de Pneus Ltda           1603301000415   31-34747075     MG       BELO HORIZONTE 
+SSX3A50  PREVENTIVA   45411   *rede Brasileira de Pneus Ltda           1603301000415   31-34747075     MG       BELO HORIZONTE 
+SYG0E68  CORRETIVA    45411   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SVH7D11  CORRETIVA    45401   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+SVH7D11  CORRETIVA    45401   Christiano Dombrovski Goncalves Mecanica de Veiculos 11363844000113  41-85049585     PR       CURITIBA       
+FHR5D11  PREVENTIVA   45400   Village Auto Center Ltda Me              8389184000135   33-34212922     MG       GUANHÃES       
+SVO1I90  PREVENTIVA   45404   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45404   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45404   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45404   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45405   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SYG0C34  SINISTRO     45393   Carlos Alberto Reinheimer                13870691000126  54-981336441    RS       CANELA         
+SVF3G60  PREVENTIVA   45394   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SVF3G60  PREVENTIVA   45394   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SVF3G60  PREVENTIVA   45394   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SVF3G60  PREVENTIVA   45394   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SUO1E11  PREVENTIVA   45393   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUO1E11  PREVENTIVA   45393   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUO1E11  PREVENTIVA   45393   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUI5A01  PREVENTIVA   45406   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SUI5A01  PREVENTIVA   45406   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SUI5A01  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+SUI5A01  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985008865  37-32120777     MG       DIVINÓPOLIS    
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+FIG6D11  SINISTRO     45407   J.a.f. de Lima - Auto Mecanica           5907791000151   43-33377950     PR       Londrina       
+STQ1D90  CORRETIVA    45407   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+STQ1D90  CORRETIVA    45407   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+STQ1D90  CORRETIVA    45407   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0D39  PREVENTIVA   45408   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C62  PREVENTIVA   45408   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SYG0C62  PREVENTIVA   45408   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SYG0C62  PREVENTIVA   45408   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SUX7I21  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUX7I21  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUX7I21  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUX7I21  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SVZ8H71  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SVZ8H71  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SVZ8H71  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SVZ8H71  PREVENTIVA   45408   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SYG0C66  PREVENTIVA   45408   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+SYG0C66  PREVENTIVA   45408   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+SYG0C66  PREVENTIVA   45408   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+SYG0C66  PREVENTIVA   45408   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+SVC2J30  CORRETIVA    45390   Auto Home Centro Tecnico Automotivo Ltda 7468324000106   11-55212700     SP       São Paulo      
+SVC2J30  CORRETIVA    45390   Auto Home Centro Tecnico Automotivo Ltda 7468324000106   11-55212700     SP       São Paulo      
+SVC2J30  CORRETIVA    45390   Auto Home Centro Tecnico Automotivo Ltda 7468324000106   11-55212700     SP       São Paulo      
+SVC2J30  CORRETIVA    45390   Auto Home Centro Tecnico Automotivo Ltda 7468324000106   11-55212700     SP       São Paulo      
+SSS3A95  CORRETIVA    45387   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSS3A95  CORRETIVA    45387   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSS3A95  CORRETIVA    45387   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSS3A95  CORRETIVA    45387   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSW3B71  PREVENTIVA   45392   Baviera Veiculos Ltda                    5883736000179   71-33403000     BA       Salvador       
+SSW3B71  PREVENTIVA   45392   Baviera Veiculos Ltda                    5883736000179   71-33403000     BA       Salvador       
+SSW3B71  PREVENTIVA   45392   Baviera Veiculos Ltda                    5883736000179   71-33403000     BA       Salvador       
+SSW3B71  PREVENTIVA   45392   Baviera Veiculos Ltda                    5883736000179   71-33403000     BA       Salvador       
+SSW3B71  PREVENTIVA   45392   Baviera Veiculos Ltda                    5883736000179   71-33403000     BA       Salvador       
+STL7F20  PREVENTIVA   45404   Autonivel Car Centro Automotivo Eireli - Epp - Caps 13523488000183  34-38235766     MG       PATOS DE MINAS 
+STL7F20  PREVENTIVA   45404   Autonivel Car Centro Automotivo Eireli - Epp - Caps 13523488000183  34-38235766     MG       PATOS DE MINAS 
+SYG0C55  PREVENTIVA   45406   Car Care Serviços Automotivos Ltda       7710737000147   21-22208057     RJ       RIO DE JANEIRO 
+SYG0C55  PREVENTIVA   45406   Car Care Serviços Automotivos Ltda       7710737000147   21-22208057     RJ       RIO DE JANEIRO 
+SYG0C55  PREVENTIVA   45406   Car Care Serviços Automotivos Ltda       7710737000147   21-22208057     RJ       RIO DE JANEIRO 
+STB0H41  PREVENTIVA   45406   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+STB0H41  PREVENTIVA   45406   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+STB0H41  PREVENTIVA   45406   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45406   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+SYG0D41  PREVENTIVA   45406   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0D41  PREVENTIVA   45406   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0D41  PREVENTIVA   45406   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SUX4D61  PREVENTIVA   45406   Gg Auto Vidros Ltda                      10498883000165  34-34237080     MG       Frutal         
+SUX4D61  PREVENTIVA   45406   Gg Auto Vidros Ltda                      10498883000165  34-34237080     MG       Frutal         
+SUX4D61  PREVENTIVA   45406   Gg Auto Vidros Ltda                      10498883000165  34-34237080     MG       Frutal         
+SYG0C61  PREVENTIVA   45414   Atitude Centro Automotivo Servicos de Manutencao E Venda de Veiculos Ltda. 43151478000125  21-966256691    RJ       Rio de Janeiro 
+SYG0C61  PREVENTIVA   45414   Atitude Centro Automotivo Servicos de Manutencao E Venda de Veiculos Ltda. 43151478000125  21-966256691    RJ       Rio de Janeiro 
+SYG0C61  PREVENTIVA   45414   Atitude Centro Automotivo Servicos de Manutencao E Venda de Veiculos Ltda. 43151478000125  21-966256691    RJ       Rio de Janeiro 
+SYG0C61  PREVENTIVA   45414   Atitude Centro Automotivo Servicos de Manutencao E Venda de Veiculos Ltda. 43151478000125  21-966256691    RJ       Rio de Janeiro 
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C43  PREVENTIVA   45414   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SUJ1A01  PREVENTIVA   45412   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  PREVENTIVA   45412   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  PREVENTIVA   45412   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  PREVENTIVA   45412   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  PREVENTIVA   45412   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SVI8D50  PREVENTIVA   45412   *opel Auto Center Com de Pecas Ltda      6925004000167   34-32230078     MG       Uberlândia     
+SVI8D50  PREVENTIVA   45412   *opel Auto Center Com de Pecas Ltda      6925004000167   34-32230078     MG       Uberlândia     
+SVI8D50  PREVENTIVA   45412   *opel Auto Center Com de Pecas Ltda      6925004000167   34-32230078     MG       Uberlândia     
+SVI8D50  PREVENTIVA   45412   *opel Auto Center Com de Pecas Ltda      6925004000167   34-32230078     MG       Uberlândia     
+SVI8D50  PREVENTIVA   45412   *opel Auto Center Com de Pecas Ltda      6925004000167   34-32230078     MG       Uberlândia     
+SYG0D12  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985003391  14-32322030     SP       BAURU          
+SYG0D12  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985003391  14-32322030     SP       BAURU          
+SYG0D12  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985003391  14-32322030     SP       BAURU          
+SYG0D12  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985003391  14-32322030     SP       BAURU          
+STQ9D30  PREVENTIVA   45415   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+STQ9D30  PREVENTIVA   45415   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+STQ9D30  PREVENTIVA   45415   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+STQ9D30  PREVENTIVA   45415   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+SUD8C01  PREVENTIVA   45415   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SUD8C01  PREVENTIVA   45415   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SUD8C01  PREVENTIVA   45415   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+SYG0D13  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985019638  16-982560429    SP       RIBEIRÃO PRETO 
+SYG0D13  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985019638  16-982560429    SP       RIBEIRÃO PRETO 
+SYG0D13  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985019638  16-982560429    SP       RIBEIRÃO PRETO 
+STF5H31  PREVENTIVA   45415   *gp Pneus Ltda                           46378127007233  41-32069959     PR       CURITIBA       
+STF5H31  PREVENTIVA   45415   *gp Pneus Ltda                           46378127007233  41-32069959     PR       CURITIBA       
+STF5H31  PREVENTIVA   45415   *gp Pneus Ltda                           46378127007233  41-32069959     PR       CURITIBA       
+STF5H31  PREVENTIVA   45415   *gp Pneus Ltda                           46378127007233  41-32069959     PR       CURITIBA       
+STF5H31  PREVENTIVA   45415   *gp Pneus Ltda                           46378127007233  41-32069959     PR       CURITIBA       
+SYG0C72  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985008270  38-32216055     MG       MONTES CLAROS  
+SYG0C72  PREVENTIVA   45415   *comercial E Importadora de Pneus Ltda   61234985008270  38-32216055     MG       MONTES CLAROS  
+FGW1J61  CORRETIVA    45415   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+FGW1J61  CORRETIVA    45415   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+FGW1J61  CORRETIVA    45415   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+FGW1J61  CORRETIVA    45415   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+FGW1J61  CORRETIVA    45415   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+SYG0C26  PREVENTIVA   45418   Comercial de Pneus Vale do Taquari Ltda  92190404000618  54-992701277    RS       CAXIAS DO SUL  
+SYG0C26  PREVENTIVA   45418   Comercial de Pneus Vale do Taquari Ltda  92190404000618  54-992701277    RS       CAXIAS DO SUL  
+SYG0C26  PREVENTIVA   45418   Comercial de Pneus Vale do Taquari Ltda  92190404000618  54-992701277    RS       CAXIAS DO SUL  
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+SSR1F55  PREVENTIVA   45400   20.262.718 Larissa Borges de Andrade     20262718000163  63-999728001    TO       PALMAS         
+STL6C11  PREVENTIVA   45404   *gp Pneus Ltda                           46378127002002  63-32142330     TO       PALMAS         
+STL6C11  PREVENTIVA   45404   *gp Pneus Ltda                           46378127002002  63-32142330     TO       PALMAS         
+STL6C11  PREVENTIVA   45404   *gp Pneus Ltda                           46378127002002  63-32142330     TO       PALMAS         
+STL6C11  PREVENTIVA   45404   *gp Pneus Ltda                           46378127002002  63-32142330     TO       PALMAS         
+SSV2J81  CORRETIVA    45386   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SSV2J81  CORRETIVA    45386   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SSV2J81  CORRETIVA    45386   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SSV8I51  CORRETIVA    45387   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SSV8I51  CORRETIVA    45387   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SSV8I51  CORRETIVA    45387   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SYG0C51  CORRETIVA    45394   Marques E Koura Ltda                     10931771000156  44-30561100     PR       UMUARAMA       
+SUI6E40  PREVENTIVA   45394   *opel Santa Monica Auto Center - Eireli  21189347000102  34-998964706    MG       UBERLÂNDIA     
+SUI6E40  PREVENTIVA   45394   *opel Santa Monica Auto Center - Eireli  21189347000102  34-998964706    MG       UBERLÂNDIA     
+SUI6E40  PREVENTIVA   45394   *opel Santa Monica Auto Center - Eireli  21189347000102  34-998964706    MG       UBERLÂNDIA     
+SYG0D08  CORRETIVA    45393   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+STO3D40  CORRETIVA    45394   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+FQZ0G31  PREVENTIVA   45398   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45398   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45398   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45398   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45398   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SVI3H61  CORRETIVA    45393   Autohauss Veiculos Ltda.                 48406408000275  33-33212822     MG       CARATINGA      
+SUS1I80  CORRETIVA    45400   L L Gibim Lavacao Ltda                   3642898000190   47-34230821     SC       JOINVILLE      
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  PREVENTIVA   45400   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0D09  SINISTRO     45405   Maserati Funilaria E Pintura             30134545000151  14-34441635     SP       Bauru          
+SYG0E82  PREVENTIVA   45405   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E82  PREVENTIVA   45405   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E82  PREVENTIVA   45405   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E79  PREVENTIVA   45405   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+SYG0E79  PREVENTIVA   45405   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+SYG0E79  PREVENTIVA   45405   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+SYG9I05  CORRETIVA    45384   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  CORRETIVA    45384   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  CORRETIVA    45384   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+SYG9I05  CORRETIVA    45384   Revisa Centro Automotivo Ltda            10914584000164  27-992981436    ES       Vitória        
+STS1C84  PREVENTIVA   45404   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STS1C84  PREVENTIVA   45404   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STS1C84  PREVENTIVA   45404   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STS1C84  PREVENTIVA   45404   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+SUU2D60  PREVENTIVA   45406   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+SUU2D60  PREVENTIVA   45406   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+SUU2D60  PREVENTIVA   45406   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+FCI8I32  PREVENTIVA   45411   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+FCI8I32  PREVENTIVA   45411   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+FCI8I32  PREVENTIVA   45411   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+GGP0B71  PREVENTIVA   45414   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+GGP0B71  PREVENTIVA   45414   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+STT2C10  PREVENTIVA   45414   Pemaza S/a                               5215132001630   69-34164322     RO       Ji-Paraná      
+STT2C10  PREVENTIVA   45414   Pemaza S/a                               5215132001630   69-34164322     RO       Ji-Paraná      
+STT2C10  PREVENTIVA   45414   Pemaza S/a                               5215132001630   69-34164322     RO       Ji-Paraná      
+SVE0D90  PREVENTIVA   45412   *comercial E Importadora de Pne          61234985007621  81-8137214007   PE       CARUARU        
+SVE0D90  PREVENTIVA   45412   *comercial E Importadora de Pne          61234985007621  81-8137214007   PE       CARUARU        
+STV2G51  PREVENTIVA   45414   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+STV2G51  PREVENTIVA   45414   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+STV2G51  PREVENTIVA   45414   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+STV2G51  PREVENTIVA   45414   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+FXB9A03  PREVENTIVA   45415   *tyresoles de Sergipe Industria Comercio E Servicos Ltda 13007828001942  79-998893362    SE       ARACAJU        
+FXB9A03  PREVENTIVA   45415   *tyresoles de Sergipe Industria Comercio E Servicos Ltda 13007828001942  79-998893362    SE       ARACAJU        
+FXB9A03  PREVENTIVA   45415   *tyresoles de Sergipe Industria Comercio E Servicos Ltda 13007828001942  79-998893362    SE       ARACAJU        
+FXB9A03  PREVENTIVA   45415   *tyresoles de Sergipe Industria Comercio E Servicos Ltda 13007828001942  79-998893362    SE       ARACAJU        
+SVC3C50  PREVENTIVA   45414   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+SVC3C50  PREVENTIVA   45414   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+SVC3C50  PREVENTIVA   45414   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+STL7J21  CORRETIVA    45390   Blue Car Auto Service Ltda               1193794000209   81-37881659     PE       RECIFE         
+GCL2D81  CORRETIVA    45397   Oliveira Centro Automotivo Ltda - Me     11772756000175  35-32323105     MG       Três Corações  
+GCL2D81  CORRETIVA    45397   Oliveira Centro Automotivo Ltda - Me     11772756000175  35-32323105     MG       Três Corações  
+STS6J80  PREVENTIVA   45399   *Comercial Automotiva Ltda               45987005006048  51-21182300     RS       Porto Alegre   
+STS6J80  PREVENTIVA   45399   *Comercial Automotiva Ltda               45987005006048  51-21182300     RS       Porto Alegre   
+STS6J80  PREVENTIVA   45399   *Comercial Automotiva Ltda               45987005006048  51-21182300     RS       Porto Alegre   
+STS6J80  PREVENTIVA   45399   *Comercial Automotiva Ltda               45987005006048  51-21182300     RS       Porto Alegre   
+STG4A10  CORRETIVA    45404   Alemanha - Vw                            5422156000184   86-21071311     PI       Teresina       
+SYG0C40  PREVENTIVA   45407   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45407   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45407   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45407   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45407   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SUH9A40  PREVENTIVA   45411   L M de Lima Pereira Me                   5787388000136   88-997859346    CE       Iguatu         
+SUH9A40  PREVENTIVA   45411   L M de Lima Pereira Me                   5787388000136   88-997859346    CE       Iguatu         
+SUH9A40  PREVENTIVA   45411   L M de Lima Pereira Me                   5787388000136   88-997859346    CE       Iguatu         
+SSV0I71  CORRETIVA    45400   Torres Pneus E Pecas Ltda                7349626000157   75-999291200    BA       ALAGOINHAS     
+SWK4B81  PREVENTIVA   45406   Julia Vasconcelos Deus Rezende           37366263000129  66-34233567     MT       Rondonópolis   
+SWK4B81  PREVENTIVA   45406   Julia Vasconcelos Deus Rezende           37366263000129  66-34233567     MT       Rondonópolis   
+SWK4B81  PREVENTIVA   45406   Julia Vasconcelos Deus Rezende           37366263000129  66-34233567     MT       Rondonópolis   
+SSU7C50  PREVENTIVA   45404   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SSU7C50  PREVENTIVA   45404   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SSU7C50  PREVENTIVA   45404   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+EIY2G32  PREVENTIVA   45405   *gp Pneus Ltda                           46378127006180  51-993748450    RS       PORTO ALEGRE   
+EIY2G32  PREVENTIVA   45405   *gp Pneus Ltda                           46378127006180  51-993748450    RS       PORTO ALEGRE   
+EIY2G32  PREVENTIVA   45405   *gp Pneus Ltda                           46378127006180  51-993748450    RS       PORTO ALEGRE   
+EIY2G32  CORRETIVA    45393   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+EIY2G32  CORRETIVA    45393   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+EIY2G32  CORRETIVA    45393   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+EIY2G32  CORRETIVA    45393   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  CORRETIVA    45383   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+SUV3G01  CORRETIVA    45385   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SVC0I35  CORRETIVA    45384   G. W. M. da Silva                        14924662000162  88-36149498     CE       Sobral         
+SVY6C51  PREVENTIVA   45436   52.234.687 Alexandre Fernandes da Silva  52234687000123  34-996323859    MG       Uberlândia     
+SVY6C51  PREVENTIVA   45436   52.234.687 Alexandre Fernandes da Silva  52234687000123  34-996323859    MG       Uberlândia     
+SVY6C51  PREVENTIVA   45436   52.234.687 Alexandre Fernandes da Silva  52234687000123  34-996323859    MG       Uberlândia     
+SVO2I91  PREVENTIVA   45436   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SVO2I91  PREVENTIVA   45436   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SVO2I91  PREVENTIVA   45436   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SVO2I91  PREVENTIVA   45436   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SVO2I91  PREVENTIVA   45436   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+STI9E91  PREVENTIVA   45447   *comercial E Importadora de Pneus Ltda   61234985003049  53-32277233     RS       PELOTAS        
+STI9E91  PREVENTIVA   45447   *comercial E Importadora de Pneus Ltda   61234985003049  53-32277233     RS       PELOTAS        
+STI9E91  PREVENTIVA   45447   *comercial E Importadora de Pneus Ltda   61234985003049  53-32277233     RS       PELOTAS        
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+SYG0D26  SINISTRO     45441   Thamires Souza Gomes de Moura -          23195356000123  83-998967779    PB       João Pessoa    
+STE7G51  PREVENTIVA   45448   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STE7G51  PREVENTIVA   45448   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STE7G51  PREVENTIVA   45448   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STE7G51  PREVENTIVA   45448   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STE7G51  PREVENTIVA   45448   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+STB0E51  PREVENTIVA   45441   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+SUU6E01  PREVENTIVA   45449   *Comercial Automotiva S.a.               45987005006129  42-36235985     PR       GUARAPUAVA     
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+STN1B30  PREVENTIVA   45448   *gp Pneus Ltda                           46378127006857  41-32040700     PR       SÃO JOSÉ DOS PINHAIS
+SVG4B00  CORRETIVA    45443   Belcar Veiculos Ltda Vw                  2918639000186   62-32399000     GO       GOIÂNIA        
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SUH6J60  PREVENTIVA   45448   *comercial Automotiva S.a.               45987005030186  42-32282200     PR       Ponta Grossa   
+SSV9F90  CORRETIVA    45434   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SSV9F90  CORRETIVA    45434   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SSV9F90  CORRETIVA    45434   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SSV9F90  CORRETIVA    45434   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SSV9F90  CORRETIVA    45434   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+STW3A40  PREVENTIVA   45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PREVENTIVA   45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PREVENTIVA   45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PREVENTIVA   45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PRÉ-APROVADO 45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PRÉ-APROVADO 45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PRÉ-APROVADO 45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+STW3A40  PRÉ-APROVADO 45435   Ceolin Auto Car Ltda                     10647404000125  54-33351848     RS       PASSO FUNDO    
+SYG0D59  CORRETIVA    45435   *gp Pneus Ltda                           46378127005290  55-34026477     RS       Uruguaiana     
+SYG0D59  CORRETIVA    45435   *gp Pneus Ltda                           46378127005290  55-34026477     RS       Uruguaiana     
+SYG0D59  CORRETIVA    45435   *gp Pneus Ltda                           46378127005290  55-34026477     RS       Uruguaiana     
+SYG0D59  CORRETIVA    45435   *gp Pneus Ltda                           46378127005290  55-34026477     RS       Uruguaiana     
+GEQ8F53  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GEQ8F53  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GEQ8F53  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GEQ8F53  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GEQ8F53  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45435   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+SWH3H61  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SWH3H61  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SWH3H61  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SWH3H61  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SYG0C57  PREVENTIVA   45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PREVENTIVA   45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PREVENTIVA   45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PREVENTIVA   45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PRÉ-APROVADO 45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PRÉ-APROVADO 45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PRÉ-APROVADO 45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0C57  PRÉ-APROVADO 45435   M R P Servico E Manutencao Ltd           8832051000191   22-27252968     RJ       CAMPOS DOS GOYTACAZES
+SYG0D16  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D16  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D16  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D16  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D17  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D17  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D17  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D17  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0E49  PREVENTIVA   45435   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SYG0E49  PREVENTIVA   45435   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SYG0E49  PREVENTIVA   45435   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SYG0E49  PREVENTIVA   45435   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+STL9H41  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+STL9H41  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+STL9H41  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+STL9H41  PREVENTIVA   45435   *della Via Pneus Ltda                    60957784001063  12-39328444     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0D28  PREVENTIVA   45418   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SWQ8H91  PREVENTIVA   45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  PREVENTIVA   45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  PREVENTIVA   45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  CORRETIVA    45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  CORRETIVA    45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  CORRETIVA    45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SWQ8H91  CORRETIVA    45418   Twi Centro Automotivo Ltda               40790550000257  47-36225554     SC       CANOINHAS      
+SYG0D21  PREVENTIVA   45418   *jrc Pneus Ltda - Me                     21434656000273  31-38268776     MG       Ipatinga       
+SYG0D21  PREVENTIVA   45418   *jrc Pneus Ltda - Me                     21434656000273  31-38268776     MG       Ipatinga       
+SYG0D21  PREVENTIVA   45418   *jrc Pneus Ltda - Me                     21434656000273  31-38268776     MG       Ipatinga       
+SYG0C60  PREVENTIVA   45419   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+SYG0C60  PREVENTIVA   45419   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+SYG0C60  PREVENTIVA   45419   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+SYG0C60  PREVENTIVA   45419   Ks Serviços Automotivos Ltda             46338241000146  21-38452441     RJ       DUQUE DE CAXIAS
+SUI8G90  PREVENTIVA   45428   Ac Pneus Auto Centro Ltda                5099309000102   49-33443332     SC       SÃO LOURENÇO DO OESTE
+SUI8G90  PREVENTIVA   45428   Ac Pneus Auto Centro Ltda                5099309000102   49-33443332     SC       SÃO LOURENÇO DO OESTE
+SUI8G90  PREVENTIVA   45428   Ac Pneus Auto Centro Ltda                5099309000102   49-33443332     SC       SÃO LOURENÇO DO OESTE
+SUI8G90  PREVENTIVA   45428   Ac Pneus Auto Centro Ltda                5099309000102   49-33443332     SC       SÃO LOURENÇO DO OESTE
+SUI8G90  PREVENTIVA   45428   Ac Pneus Auto Centro Ltda                5099309000102   49-33443332     SC       SÃO LOURENÇO DO OESTE
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C50  PREVENTIVA   45428   E Watanabe Pecas E Acessorios Me         8427298000122   44-4435258075   PR       CAMPO MOURÃO   
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C51  PREVENTIVA   45429   *gp Pneus Ltda                           46378127007667  44-36216400     PR       UMUARAMA       
+SYG0C53  PREVENTIVA   45429   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SYG0C53  PREVENTIVA   45429   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SYG0C53  PREVENTIVA   45429   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SWI5E90  PREVENTIVA   45426   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SWI5E90  PREVENTIVA   45426   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SWI5E90  PREVENTIVA   45426   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+FPX6D21  PREVENTIVA   45428   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+FPX6D21  PREVENTIVA   45428   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+FPX6D21  PREVENTIVA   45428   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+FPX6D21  PREVENTIVA   45428   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SUM9D71  CORRETIVA    45420   Alemanha - Vw                            5422156000184   86-21071311     PI       Teresina       
+SUE4F30  CORRETIVA    45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SUE4F30  CORRETIVA    45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+STP9J40  PREVENTIVA   45422   *comercial E Importadora de Pneus Ltda   61234985014830  35-37141575     MG       Poços de Caldas
+STP9J40  PREVENTIVA   45422   *comercial E Importadora de Pneus Ltda   61234985014830  35-37141575     MG       Poços de Caldas
+SVY0D80  CORRETIVA    45420   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SVY0D80  CORRETIVA    45420   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSZ7H11  PREVENTIVA   45422   *comercial E Importadora de Pneus Ltda   61234985013273  16-33361222     SP       ARARAQUARA     
+SSZ7H11  PREVENTIVA   45422   *comercial E Importadora de Pneus Ltda   61234985013273  16-33361222     SP       ARARAQUARA     
+SSZ7H11  PREVENTIVA   45422   *comercial E Importadora de Pneus Ltda   61234985013273  16-33361222     SP       ARARAQUARA     
+SVD6B20  PREVENTIVA   45436   Auto Care Mecanica E Autoeletrica Ltda   11889215000121  51-30667519     RS       NOVO HAMBURGO  
+SVD6B20  PREVENTIVA   45436   Auto Care Mecanica E Autoeletrica Ltda   11889215000121  51-30667519     RS       NOVO HAMBURGO  
+SVD6B20  PREVENTIVA   45436   Auto Care Mecanica E Autoeletrica Ltda   11889215000121  51-30667519     RS       NOVO HAMBURGO  
+SVD6B20  PREVENTIVA   45436   Auto Care Mecanica E Autoeletrica Ltda   11889215000121  51-30667519     RS       NOVO HAMBURGO  
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+STA9E81  PREVENTIVA   45436   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C45  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007403  45-32194100     PR       CASCAVEL       
+SYG0C48  PREVENTIVA   45436   *comercial E Importadora de Pneus Ltda   61234985015560  42-32367433     PR       PONTA GROSSA   
+SYG0C48  PREVENTIVA   45436   *comercial E Importadora de Pneus Ltda   61234985015560  42-32367433     PR       PONTA GROSSA   
+SYG0C48  PREVENTIVA   45436   *comercial E Importadora de Pneus Ltda   61234985015560  42-32367433     PR       PONTA GROSSA   
+SYG0C48  PREVENTIVA   45436   *comercial E Importadora de Pneus Ltda   61234985015560  42-32367433     PR       PONTA GROSSA   
+SYG0C48  PREVENTIVA   45436   *comercial E Importadora de Pneus Ltda   61234985015560  42-32367433     PR       PONTA GROSSA   
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+SYG0E46  PREVENTIVA   45436   *gp Pneus Ltda                           46378127007748  43-33151420     PR       LONDRINA       
+STZ1C71  PREVENTIVA   45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STZ1C71  PREVENTIVA   45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STZ1C71  PREVENTIVA   45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STZ1C71  PREVENTIVA   45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STZ1C71  CORRETIVA    45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STZ1C71  CORRETIVA    45436   Jonas Simon Me                           17294249000150  51-37413066     RS       Venâncio Aires 
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+STB1I80  SINISTRO     45435   Hm Cys Centro Automotivo Ltda            13200770000120  41-30788358     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+SUT5A11  PREVENTIVA   45440   *gp Pneus Ltda                           46378127006504  41-32652073     PR       CURITIBA       
+FQZ0G31  PREVENTIVA   45441   *comercial E Importadora de Pneus Ltda   61234985021292  12-33084718     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45441   *comercial E Importadora de Pneus Ltda   61234985021292  12-33084718     SP       São José dos Campos
+FQZ0G31  PREVENTIVA   45441   *comercial E Importadora de Pneus Ltda   61234985021292  12-33084718     SP       São José dos Campos
+STW2B90  PRÉ-APROVADO 45439   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STW2B90  PRÉ-APROVADO 45439   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STW2B90  PRÉ-APROVADO 45439   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STW2B90  PRÉ-APROVADO 45439   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STW2B90  PRÉ-APROVADO 45439   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SSU0I51  PREVENTIVA   45441   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SSU0I51  PREVENTIVA   45441   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SSU0I51  PREVENTIVA   45441   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SSU0I51  PREVENTIVA   45441   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SSU0I51  PREVENTIVA   45441   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SYG0D07  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985001186  16-36106916     SP       RIBEIRÃO PRETO 
+SYG0D07  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985001186  16-36106916     SP       RIBEIRÃO PRETO 
+STG0J61  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+STG0J61  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+STG0J61  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+STG0J61  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+STG0J61  PREVENTIVA   45432   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVA6J90  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVA6J90  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVA6J90  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVA6J90  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVA6J90  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D42  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D42  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D42  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D42  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D42  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0C58  PREVENTIVA   45433   Adriana da Silva Teixeira Me             9547034000175   21-980890507    RJ       Nova Iguaçu    
+SYG0C58  PREVENTIVA   45433   Adriana da Silva Teixeira Me             9547034000175   21-980890507    RJ       Nova Iguaçu    
+SYG0C58  PREVENTIVA   45433   Adriana da Silva Teixeira Me             9547034000175   21-980890507    RJ       Nova Iguaçu    
+SYG0C58  PREVENTIVA   45433   Adriana da Silva Teixeira Me             9547034000175   21-980890507    RJ       Nova Iguaçu    
+STX2E60  PREVENTIVA   45433   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+STX2E60  PREVENTIVA   45433   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+STX2E60  PREVENTIVA   45433   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SUG9E21  CORRETIVA    45433   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SUG9E21  CORRETIVA    45433   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SUG9E21  CORRETIVA    45433   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SUG9E21  CORRETIVA    45433   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+GJV6G51  PREVENTIVA   45420   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+GJV6G51  PREVENTIVA   45420   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+GJV6G51  CORRETIVA    45420   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+GJV6G51  CORRETIVA    45420   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SYG0C52  PREVENTIVA   45420   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C52  PREVENTIVA   45420   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C52  PREVENTIVA   45420   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C52  PREVENTIVA   45420   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C52  PREVENTIVA   45420   Fragate Auto Center Ltda                 7357231000104   43-35256070     PR       Jacarezinho    
+SYG0C49  PREVENTIVA   45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  PREVENTIVA   45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  PREVENTIVA   45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  PREVENTIVA   45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  PREVENTIVA   45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  CORRETIVA    45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  CORRETIVA    45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C49  CORRETIVA    45421   Mecanica Marjovan Ltda -epp              79318010000120  42-35233300     PR       União Da Vitória
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SYG0C54  PREVENTIVA   45420   Rta Reparacao Tecnica Automotiva Ltda - Epp 4058562000147   42-991215080    PR       Telêmaco Borba 
+SSY6J80  PREVENTIVA   45420   *jrc Pneus Ltda - Me                     21434656000354  33-991712670    MG       GOVERNADOR VALADARES
+SSY6J80  PREVENTIVA   45420   *jrc Pneus Ltda - Me                     21434656000354  33-991712670    MG       GOVERNADOR VALADARES
+SSY6J80  PREVENTIVA   45420   *jrc Pneus Ltda - Me                     21434656000354  33-991712670    MG       GOVERNADOR VALADARES
+FQC1D91  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+FQC1D91  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+FQC1D91  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+FQC1D91  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+FQC1D91  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SYG0D11  PREVENTIVA   45421   Lopes Comercio de Pecas Ltda - Epp       3911812000187   16-36302169     SP       RIBEIRÃO PRETO 
+SYG0D11  PREVENTIVA   45421   Lopes Comercio de Pecas Ltda - Epp       3911812000187   16-36302169     SP       RIBEIRÃO PRETO 
+SYG0D11  PREVENTIVA   45421   Lopes Comercio de Pecas Ltda - Epp       3911812000187   16-36302169     SP       RIBEIRÃO PRETO 
+SYG0D11  PREVENTIVA   45421   Lopes Comercio de Pecas Ltda - Epp       3911812000187   16-36302169     SP       RIBEIRÃO PRETO 
+SUE4F30  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SUE4F30  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SUE4F30  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SUE4F30  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SUE4F30  PREVENTIVA   45420   Gecar Auto Center Ltda                   48003584000185  37-988159986    MG       DIVINÓPOLIS    
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E44  CORRETIVA    45429   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+SYG0E41  CORRETIVA    45432   Freitas & Miliati Ltda - Me              5785685000142   44-991531784    PR       Maringá        
+STP6A80  PREVENTIVA   45433   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+STP6A80  PREVENTIVA   45433   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+STP6A80  PREVENTIVA   45433   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+STP6A80  PREVENTIVA   45433   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+STP6A80  PREVENTIVA   45433   *comercial E Importado de Pneus Ltda     61234985014164  45-4532222629   PR       CASCAVEL       
+SYG0D66  SINISTRO     45427   Mg Vidros Automotivos Ltda               7571746007611   27-21215501     RS       NOVO HAMBURGO  
+SUJ9C41  PREVENTIVA   45429   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUJ9C41  PREVENTIVA   45429   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUJ9C41  PREVENTIVA   45429   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SUJ9C41  PREVENTIVA   45429   *gp Pneus Ltda                           46378127002274  27-33370077     ES       VITÓRIA        
+SYG0D84  PREVENTIVA   45441   Auto Elétrica Devilla Ltda               79824793000113  49-35410745     SC       Campos Novos   
+SYG0D84  PREVENTIVA   45441   Auto Elétrica Devilla Ltda               79824793000113  49-35410745     SC       Campos Novos   
+SYG0D84  PREVENTIVA   45441   Auto Elétrica Devilla Ltda               79824793000113  49-35410745     SC       Campos Novos   
+SSU6B31  PREVENTIVA   45446   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SSU6B31  PREVENTIVA   45446   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SSU6B31  PREVENTIVA   45446   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STB2G41  PREVENTIVA   45443   *pneuac Comercial E Importadora Ltda     61234985006650  48-34370133     SC       CRICIÚMA       
+STB2G41  PREVENTIVA   45443   *pneuac Comercial E Importadora Ltda     61234985006650  48-34370133     SC       CRICIÚMA       
+STB2G41  PREVENTIVA   45443   *pneuac Comercial E Importadora Ltda     61234985006650  48-34370133     SC       CRICIÚMA       
+GCL2D81  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015136  35-32141688     MG       Varginha       
+GCL2D81  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015136  35-32141688     MG       Varginha       
+SYG0D23  PREVENTIVA   45449   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SYG0D23  PREVENTIVA   45449   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SYG0D23  CORRETIVA    45449   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SUK3E90  CORRETIVA    45447   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SUK3E90  CORRETIVA    45447   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SUK3E90  CORRETIVA    45447   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STM8C91  CORRETIVA    45425   Breitkopf Veiculos Ltda                  82637513000172  47-32312000     SC       BLUMENAU       
+SVR3C41  PREVENTIVA   45426   Acs Comercio E Servicos Auto Center & Reboque Eireli 5960310000171   83-998009139    PB       PATOS          
+SVR3C41  PREVENTIVA   45426   Acs Comercio E Servicos Auto Center & Reboque Eireli 5960310000171   83-998009139    PB       PATOS          
+SVR3C41  PREVENTIVA   45426   Acs Comercio E Servicos Auto Center & Reboque Eireli 5960310000171   83-998009139    PB       PATOS          
+SYG0E78  PREVENTIVA   45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E78  PREVENTIVA   45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E78  PREVENTIVA   45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E78  PRÉ-APROVADO 45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E78  PRÉ-APROVADO 45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E78  PRÉ-APROVADO 45435   Ebs Bazar E Servicos Ltda Me             6041978000188   55-996153696    RS       ROSÁRIO DO SUL 
+SYG0E54  PREVENTIVA   45435   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E54  PREVENTIVA   45435   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E54  PREVENTIVA   45435   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E84  PREVENTIVA   45436   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E84  PREVENTIVA   45436   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E84  PREVENTIVA   45436   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E84  PREVENTIVA   45436   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E55  PREVENTIVA   45436   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0E55  PREVENTIVA   45436   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0E55  PREVENTIVA   45436   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0E55  PREVENTIVA   45436   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0D05  PREVENTIVA   45436   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0D05  PREVENTIVA   45436   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0D05  PREVENTIVA   45436   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0D05  PREVENTIVA   45436   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0D16  PREVENTIVA   45443   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D16  PREVENTIVA   45443   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D16  PREVENTIVA   45443   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0E54  PREVENTIVA   45443   *pneu Ac Comercial E Importadora Ltda    61234985002662  51-37141910     RS       Lajeado        
+SYG0E54  PREVENTIVA   45443   *pneu Ac Comercial E Importadora Ltda    61234985002662  51-37141910     RS       Lajeado        
+SYG0E54  PREVENTIVA   45443   *pneu Ac Comercial E Importadora Ltda    61234985002662  51-37141910     RS       Lajeado        
+SYG0E54  PREVENTIVA   45443   *pneu Ac Comercial E Importadora Ltda    61234985002662  51-37141910     RS       Lajeado        
+SYG0E54  PREVENTIVA   45443   *pneu Ac Comercial E Importadora Ltda    61234985002662  51-37141910     RS       Lajeado        
+SYG0D82  PREVENTIVA   45435   *comercial E Importadora de Pneus Ltda   61234985018666  49-32250280     SC       Lages          
+SYG0D82  PREVENTIVA   45435   *comercial E Importadora de Pneus Ltda   61234985018666  49-32250280     SC       Lages          
+SYG0D82  PREVENTIVA   45435   *comercial E Importadora de Pneus Ltda   61234985018666  49-32250280     SC       Lages          
+SYG0E85  PREVENTIVA   45435   *comercial E Importadora de Pneus Ltda   61234985019395  47-38022800     SC       JOINVILLE      
+SYG0E85  PREVENTIVA   45435   *comercial E Importadora de Pneus Ltda   61234985019395  47-38022800     SC       JOINVILLE      
+SYG0F28  PREVENTIVA   45428   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SYG0F28  PREVENTIVA   45428   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SYG0F28  PREVENTIVA   45428   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SUC3A61  PREVENTIVA   45426   *comercial E Importadora de Pne          61234985007621  81-8137214007   PE       CARUARU        
+SUC3A61  PREVENTIVA   45426   *comercial E Importadora de Pne          61234985007621  81-8137214007   PE       CARUARU        
+STN6D80  PREVENTIVA   45429   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+STN6D80  PREVENTIVA   45429   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SUI1F41  PREVENTIVA   45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUI1F41  PREVENTIVA   45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUI1F41  PREVENTIVA   45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUI1F41  CORRETIVA    45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUI1F41  CORRETIVA    45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUI1F41  CORRETIVA    45426   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+EGJ6F71  PREVENTIVA   45426   Ottoncar Veiculos Ltda                   5016945000115   38-37211970     MG       Curvelo        
+EGJ6F71  PREVENTIVA   45426   Ottoncar Veiculos Ltda                   5016945000115   38-37211970     MG       Curvelo        
+EGJ6F71  PREVENTIVA   45426   Ottoncar Veiculos Ltda                   5016945000115   38-37211970     MG       Curvelo        
+SUY4C90  CORRETIVA    45426   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUY4C90  CORRETIVA    45426   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUY4C90  CORRETIVA    45426   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUY4C90  CORRETIVA    45426   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SUR6C13  PREVENTIVA   45426   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SUR6C13  PREVENTIVA   45426   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SUR6C13  PREVENTIVA   45426   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SVM8E05  PREVENTIVA   45428   Comercio de Pecas E Servicos Sobrinho Ltda 10516758000130  88-34121365     CE       QUIXADÁ        
+SVM8E05  PREVENTIVA   45428   Comercio de Pecas E Servicos Sobrinho Ltda 10516758000130  88-34121365     CE       QUIXADÁ        
+SVM8E05  PREVENTIVA   45428   Comercio de Pecas E Servicos Sobrinho Ltda 10516758000130  88-34121365     CE       QUIXADÁ        
+SVM8E05  PREVENTIVA   45428   Comercio de Pecas E Servicos Sobrinho Ltda 10516758000130  88-34121365     CE       QUIXADÁ        
+SSR5G91  PREVENTIVA   45428   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SSR5G91  PREVENTIVA   45428   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SSR5G91  PREVENTIVA   45428   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+STH6F40  PREVENTIVA   45428   Na Ponta Oficina Ltda                    54276659000102  31-992450072    MG       BELO HORIZONTE 
+STH6F40  PREVENTIVA   45428   Na Ponta Oficina Ltda                    54276659000102  31-992450072    MG       BELO HORIZONTE 
+STH6F40  PREVENTIVA   45428   Na Ponta Oficina Ltda                    54276659000102  31-992450072    MG       BELO HORIZONTE 
+STH6F40  CORRETIVA    45428   Na Ponta Oficina Ltda                    54276659000102  31-992450072    MG       BELO HORIZONTE 
+STH6F40  CORRETIVA    45428   Na Ponta Oficina Ltda                    54276659000102  31-992450072    MG       BELO HORIZONTE 
+SVJ8E00  CORRETIVA    45428   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+SVJ8E00  CORRETIVA    45428   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+SVJ8E00  CORRETIVA    45428   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+GID0G81  CORRETIVA    45428   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+GID0G81  CORRETIVA    45428   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SYG9I71  PREVENTIVA   45428   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SYG9I71  PREVENTIVA   45428   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SYG0C21  PREVENTIVA   45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SYG0C21  PREVENTIVA   45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SYG0C21  PREVENTIVA   45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SYG0C21  CORRETIVA    45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SYG0C21  CORRETIVA    45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SYG0C21  CORRETIVA    45429   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SWI1D41  PREVENTIVA   45428   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SWI1D41  PREVENTIVA   45428   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SWI1D41  PREVENTIVA   45428   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+STB6F40  PREVENTIVA   45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  PREVENTIVA   45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  PREVENTIVA   45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  CORRETIVA    45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  CORRETIVA    45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  CORRETIVA    45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STB6F40  CORRETIVA    45432   Ana Lucia Pereira da Silva Abreu - Me    21374846000161  61-96182950     GO       LUZIÂNIA       
+STW1B30  CORRETIVA    45427   Evoque Auto Center Eireli Me             24102118000199  62-39200050     GO       GOIÂNIA        
+STW1B30  CORRETIVA    45427   Evoque Auto Center Eireli Me             24102118000199  62-39200050     GO       GOIÂNIA        
+SSR5D90  PREVENTIVA   45449   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+SSR5D90  PREVENTIVA   45449   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+SSR5D90  PREVENTIVA   45449   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+SSR5D90  PREVENTIVA   45449   *gp Pneus Ltda                           46378127001898  63-32158137     TO       PALMAS         
+SYG0C70  PREVENTIVA   45450   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SYG0C70  PREVENTIVA   45450   *maneco Autocenter Ltda                  39719585000210  32-32150609     MG       JUIZ DE FORA   
+SYG0C25  CORRETIVA    45434   Autonivel Car Centro Automotivo Eireli - Epp - Caps 13523488000183  34-38235766     MG       PATOS DE MINAS 
+STZ2C10  PREVENTIVA   45433   G. W. M. da Silva                        14924662000162  88-36149498     CE       Sobral         
+STZ2C10  PREVENTIVA   45433   G. W. M. da Silva                        14924662000162  88-36149498     CE       Sobral         
+STZ2C10  PREVENTIVA   45433   G. W. M. da Silva                        14924662000162  88-36149498     CE       Sobral         
+STZ2C10  PREVENTIVA   45433   G. W. M. da Silva                        14924662000162  88-36149498     CE       Sobral         
+STE7B41  PREVENTIVA   45439   A & R Auto Center Ltda                   49078584000107  87-988592285    PE       SALGUEIRO      
+STE7B41  PREVENTIVA   45439   A & R Auto Center Ltda                   49078584000107  87-988592285    PE       SALGUEIRO      
+STE7B41  PREVENTIVA   45439   A & R Auto Center Ltda                   49078584000107  87-988592285    PE       SALGUEIRO      
+SSU9E60  PREVENTIVA   45434   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SSU9E60  PREVENTIVA   45434   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SSU9E60  PREVENTIVA   45434   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SST3D11  PREVENTIVA   45436   Casa do Oleo de Barreiras Ltda           35189222000189  77-99992316     BA       BARREIRAS      
+SST3D11  PREVENTIVA   45436   Casa do Oleo de Barreiras Ltda           35189222000189  77-99992316     BA       BARREIRAS      
+SUH8F90  PREVENTIVA   45436   Jb Pneus Eireli                          37325933000169  62-33147742     GO       ANÁPOLIS       
+SUH8F90  PREVENTIVA   45436   Jb Pneus Eireli                          37325933000169  62-33147742     GO       ANÁPOLIS       
+SUH8F90  PREVENTIVA   45436   Jb Pneus Eireli                          37325933000169  62-33147742     GO       ANÁPOLIS       
+SUH8F90  PREVENTIVA   45436   Jb Pneus Eireli                          37325933000169  62-33147742     GO       ANÁPOLIS       
+STS4H50  SINISTRO     45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUJ1F80  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+SUJ1F80  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+SUJ1F80  PREVENTIVA   45435   *gp Pneus Ltda                           46378127002940  34-32333002     MG       UBERLÂNDIA     
+GCE7F21  CORRETIVA    45435   Bm Auto Express Locadora de Veiculos Ltda 46461249000103  84-33431482     RN       NATAL          
+GCE7F21  CORRETIVA    45435   Bm Auto Express Locadora de Veiculos Ltda 46461249000103  84-33431482     RN       NATAL          
+SUD1I51  PREVENTIVA   45439   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUD1I51  PREVENTIVA   45439   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUD1I51  PREVENTIVA   45439   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SUD1I51  PREVENTIVA   45439   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+SSU9E60  PREVENTIVA   45436   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SSU9E60  PREVENTIVA   45436   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SSU9E60  PREVENTIVA   45436   Jose Roberto Sota Lopes Me               4538604000147   67-32451976     MS       Anastácio      
+SUC3A61  CORRETIVA    45439   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SUT5B10  CORRETIVA    45435   Carrera Car Service Ltda                 48129135000188  31-991251410    MG       BETIM          
+STM8E81  PREVENTIVA   45440   Fariauto Pecas E Servicos Ltda           22266837000110  34-38225370     MG       Patos de Minas 
+STM8E81  PREVENTIVA   45440   Fariauto Pecas E Servicos Ltda           22266837000110  34-38225370     MG       Patos de Minas 
+STM8E81  PREVENTIVA   45440   Fariauto Pecas E Servicos Ltda           22266837000110  34-38225370     MG       Patos de Minas 
+SYG0C41  PREVENTIVA   45441   Autopecas Cidade Ltda                    15608567000112  85-981768318    CE       FORTALEZA      
+SYG0C41  PREVENTIVA   45441   Autopecas Cidade Ltda                    15608567000112  85-981768318    CE       FORTALEZA      
+SYG0C41  PREVENTIVA   45441   Autopecas Cidade Ltda                    15608567000112  85-981768318    CE       FORTALEZA      
+STS3G60  PREVENTIVA   45432   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+STS3G60  PREVENTIVA   45432   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+STS3G60  PREVENTIVA   45432   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SUZ7B41  PREVENTIVA   45432   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SUZ7B41  PREVENTIVA   45432   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SUZ7B41  PREVENTIVA   45432   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+SUZ7B41  PREVENTIVA   45432   **gp Pneus Ltda                          46378127010293  62-36264149     GO       GOIÂNIA        
+GGT3E61  PREVENTIVA   45432   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+GGT3E61  PREVENTIVA   45432   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+GGT3E61  PREVENTIVA   45432   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+GAL5B01  CORRETIVA    45432   Discautol Distribuidora Campograndense de Automoveis Ltda - Vw 3244290000107   67-30443000     MS       Campo Grande   
+SVY8D61  PREVENTIVA   45432   Janielson Lucena E Sousa Ltda            50513139000107  83-999975636    PB       PATOS          
+SVY8D61  PREVENTIVA   45432   Janielson Lucena E Sousa Ltda            50513139000107  83-999975636    PB       PATOS          
+SVY8D61  PREVENTIVA   45432   Janielson Lucena E Sousa Ltda            50513139000107  83-999975636    PB       PATOS          
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STO0I20  SINISTRO     45415   Link Chapeamento E Pinturas Ltda - Me    93167948000117  53-32232604     RS       PELOTAS        
+STV0I10  PREVENTIVA   45421   *gp Pneus Ltda                           46378127000573  63-34641204     TO       GUARAÍ         
+STV0I10  PREVENTIVA   45421   *gp Pneus Ltda                           46378127000573  63-34641204     TO       GUARAÍ         
+STV0I10  PREVENTIVA   45421   *gp Pneus Ltda                           46378127000573  63-34641204     TO       GUARAÍ         
+STV0I10  CORRETIVA    45421   *gp Pneus Ltda                           46378127000573  63-34641204     TO       GUARAÍ         
+STB7J11  PREVENTIVA   45420   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+STB7J11  PREVENTIVA   45420   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+STB7J11  PREVENTIVA   45420   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+SUH5C91  PRÉ-APROVADO 45425   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+SUH5C91  PRÉ-APROVADO 45425   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+SUH5C91  PRÉ-APROVADO 45425   *regulex Sul Centro Automotivo Eireli - Me 27337403000187  81-992771255    PE       Recife         
+SSS4D95  PREVENTIVA   45420   *comercial E Importadora de Pneus Ltda   61234985023660  84-21420522     RN       Mossoró        
+SSS4D95  PREVENTIVA   45420   *comercial E Importadora de Pneus Ltda   61234985023660  84-21420522     RN       Mossoró        
+GCO0E81  PREVENTIVA   45425   A C Lopes Reboque Ltda                   48275646000108  85-30851338     CE       FORTALEZA      
+GCO0E81  PREVENTIVA   45425   A C Lopes Reboque Ltda                   48275646000108  85-30851338     CE       FORTALEZA      
+GCO0E81  PREVENTIVA   45425   A C Lopes Reboque Ltda                   48275646000108  85-30851338     CE       FORTALEZA      
+SVY0D80  PREVENTIVA   45422   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SVY0D80  PREVENTIVA   45422   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SVY0D80  PREVENTIVA   45422   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSW1I91  PREVENTIVA   45441   Jm Tintas E Pecas Ltda                   2313733000292   33-35233722     MG       Teófilo Otoni  
+SSW1I91  PREVENTIVA   45441   Jm Tintas E Pecas Ltda                   2313733000292   33-35233722     MG       Teófilo Otoni  
+SSW1I91  PREVENTIVA   45441   Jm Tintas E Pecas Ltda                   2313733000292   33-35233722     MG       Teófilo Otoni  
+SVK0B41  CORRETIVA    45441   *gp Sertorio Comercio de Pneus Ltda      37085502000172  51-30139296     RS       PORTO ALEGRE   
+SVK0B41  CORRETIVA    45441   *gp Sertorio Comercio de Pneus Ltda      37085502000172  51-30139296     RS       PORTO ALEGRE   
+SVK0B41  CORRETIVA    45441   *gp Sertorio Comercio de Pneus Ltda      37085502000172  51-30139296     RS       PORTO ALEGRE   
+FRP6J91  PREVENTIVA   45441   Af Automotivo Ltda - Me                  26121864000155  31-25273030     MG       BELO HORIZONTE 
+FRP6J91  PREVENTIVA   45441   Af Automotivo Ltda - Me                  26121864000155  31-25273030     MG       BELO HORIZONTE 
+FRP6J91  PREVENTIVA   45441   Af Automotivo Ltda - Me                  26121864000155  31-25273030     MG       BELO HORIZONTE 
+GJJ6E41  PREVENTIVA   45441   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45441   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+GJJ6E41  PREVENTIVA   45441   *issacar - Centro Automotivo Ltda        31787973000146  21-982725883    RJ       DUQUE DE CAXIAS
+STL9H41  PREVENTIVA   45441   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+STL9H41  PREVENTIVA   45441   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+STL9H41  PREVENTIVA   45441   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SVG6A10  PREVENTIVA   45443   Cdn-centro Mecanico Automotivos Ltda - Me 8209016000110   33-37214929     MG       Almenara       
+SVG6A10  PREVENTIVA   45443   Cdn-centro Mecanico Automotivos Ltda - Me 8209016000110   33-37214929     MG       Almenara       
+SVG6A10  PREVENTIVA   45443   Cdn-centro Mecanico Automotivos Ltda - Me 8209016000110   33-37214929     MG       Almenara       
+STY6E45  PREVENTIVA   45446   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STY6E45  PREVENTIVA   45446   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STY6E45  PREVENTIVA   45446   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STY6E45  PREVENTIVA   45446   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STM7B11  PREVENTIVA   45443   *opel Uberaba Sul Auto Centercom de Pecas Ltda 37420073000142  34-33122500     MG       UBERABA        
+STM7B11  PREVENTIVA   45443   *opel Uberaba Sul Auto Centercom de Pecas Ltda 37420073000142  34-33122500     MG       UBERABA        
+STM7B11  PREVENTIVA   45443   *opel Uberaba Sul Auto Centercom de Pecas Ltda 37420073000142  34-33122500     MG       UBERABA        
+STM7B11  CORRETIVA    45443   *opel Uberaba Sul Auto Centercom de Pecas Ltda 37420073000142  34-33122500     MG       UBERABA        
+SYG0D75  PREVENTIVA   45441   Brangioni Truck Service Ltda             18046515000198  21-964449647    RJ       SÃO GONÇALO    
+SYG0D75  PREVENTIVA   45441   Brangioni Truck Service Ltda             18046515000198  21-964449647    RJ       SÃO GONÇALO    
+SYG0D75  PREVENTIVA   45441   Brangioni Truck Service Ltda             18046515000198  21-964449647    RJ       SÃO GONÇALO    
+STS9C10  PREVENTIVA   45443   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45443   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45443   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+STS9C10  PREVENTIVA   45443   Bruno Auto Service Ltda                  37262409000196  62-82263596     GO       Ceres          
+SUO6E30  PREVENTIVA   45441   *gp Tres Lagoas Centro Automotivo Ltda   19834658000127  67-35224436     MS       TRÊS LAGOAS    
+SUO6E30  PREVENTIVA   45441   *gp Tres Lagoas Centro Automotivo Ltda   19834658000127  67-35224436     MS       TRÊS LAGOAS    
+SUO6E30  PREVENTIVA   45441   *gp Tres Lagoas Centro Automotivo Ltda   19834658000127  67-35224436     MS       TRÊS LAGOAS    
+SUO6E30  PREVENTIVA   45441   *gp Tres Lagoas Centro Automotivo Ltda   19834658000127  67-35224436     MS       TRÊS LAGOAS    
+SVU0I01  PREVENTIVA   45441   L. Carvalho de Melo                      23736586000152  63-992213503    TO       PALMAS         
+SVU0I01  PREVENTIVA   45441   L. Carvalho de Melo                      23736586000152  63-992213503    TO       PALMAS         
+SVU0I01  PREVENTIVA   45441   L. Carvalho de Melo                      23736586000152  63-992213503    TO       PALMAS         
+SVU0I01  PREVENTIVA   45441   L. Carvalho de Melo                      23736586000152  63-992213503    TO       PALMAS         
+SUI1H91  PREVENTIVA   45443   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SUI1H91  PREVENTIVA   45443   *campneus                                61234985007540  75-36264300     BA       FEIRA DE SANTANA
+SVU3E14  PREVENTIVA   45443   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+SVU3E14  PREVENTIVA   45443   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+SYG9I01  PREVENTIVA   45443   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SYG9I01  PREVENTIVA   45443   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SUV7J60  PREVENTIVA   45421   *comercial Automotiva S.a.               45987005027045  35-34221600     MG       POUSO ALEGRE   
+SUV7J60  PREVENTIVA   45421   *comercial Automotiva S.a.               45987005027045  35-34221600     MG       POUSO ALEGRE   
+SUV7J60  PREVENTIVA   45421   *comercial Automotiva S.a.               45987005027045  35-34221600     MG       POUSO ALEGRE   
+SUV7J60  PREVENTIVA   45421   *comercial Automotiva S.a.               45987005027045  35-34221600     MG       POUSO ALEGRE   
+SUV7J60  PREVENTIVA   45421   *comercial Automotiva S.a.               45987005027045  35-34221600     MG       POUSO ALEGRE   
+SUY3E30  PREVENTIVA   45421   Serauto Peças E Serviços                 70963079000131  32-37280057     MG       Muriaé         
+SUY3E30  PREVENTIVA   45421   Serauto Peças E Serviços                 70963079000131  32-37280057     MG       Muriaé         
+SUY3E30  PREVENTIVA   45421   Serauto Peças E Serviços                 70963079000131  32-37280057     MG       Muriaé         
+SUY3E30  PREVENTIVA   45421   Serauto Peças E Serviços                 70963079000131  32-37280057     MG       Muriaé         
+SSZ4G26  PREVENTIVA   45427   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSZ4G26  PREVENTIVA   45427   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSZ4G26  PREVENTIVA   45427   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSZ4G26  PREVENTIVA   45427   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STS4H50  PREVENTIVA   45425   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+STS4H50  PREVENTIVA   45425   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+STS4H50  PREVENTIVA   45425   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUA7I60  PRÉ-APROVADO 45427   Auto Center Lider Ltda                   30457218000130  99-981426886    MA       IMPERATRIZ     
+SUA7I60  PRÉ-APROVADO 45427   Auto Center Lider Ltda                   30457218000130  99-981426886    MA       IMPERATRIZ     
+SUA7I60  PRÉ-APROVADO 45427   Auto Center Lider Ltda                   30457218000130  99-981426886    MA       IMPERATRIZ     
+SUF5F20  CORRETIVA    45422   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SUJ1A01  CORRETIVA    45421   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  CORRETIVA    45421   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+SUJ1A01  CORRETIVA    45421   Jrc Pneus Ltda                           21434656000516  33-991712670    MG       GOVERNADOR VALADARES
+STN3J70  PREVENTIVA   45432   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+STN3J70  PREVENTIVA   45432   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+STN3J70  PREVENTIVA   45432   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+SSV0I71  PREVENTIVA   45432   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSV0I71  PREVENTIVA   45432   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSV0I71  PREVENTIVA   45432   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+STH1B80  CORRETIVA    45428   Carlos Renato de Carvalho & Cia          25587361000107  35-32123094     MG       Varginha       
+SUI8A20  PREVENTIVA   45432   Auto Center Minas Sul Ltda               12925316000173  35-34234808     MG       Pouso Alegre   
+SUI8A20  PREVENTIVA   45432   Auto Center Minas Sul Ltda               12925316000173  35-34234808     MG       Pouso Alegre   
+SUI8A20  PREVENTIVA   45432   Auto Center Minas Sul Ltda               12925316000173  35-34234808     MG       Pouso Alegre   
+STU4I40  PREVENTIVA   45432   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+STU4I40  PREVENTIVA   45432   *gominha Pneus Ltda                      41827544000109  37-98217377     MG       LAGOA DA PRATA 
+SVH4E71  PREVENTIVA   45432   F. E. B. Pereira Rav Centro Automotivo   35607139000182  32-984051404    MG       JUIZ DE FORA   
+SVH4E71  PREVENTIVA   45432   F. E. B. Pereira Rav Centro Automotivo   35607139000182  32-984051404    MG       JUIZ DE FORA   
+SVH4E71  PREVENTIVA   45432   F. E. B. Pereira Rav Centro Automotivo   35607139000182  32-984051404    MG       JUIZ DE FORA   
+SVH4E71  CORRETIVA    45432   F. E. B. Pereira Rav Centro Automotivo   35607139000182  32-984051404    MG       JUIZ DE FORA   
+SVH4E71  CORRETIVA    45432   F. E. B. Pereira Rav Centro Automotivo   35607139000182  32-984051404    MG       JUIZ DE FORA   
+SVP1H40  PREVENTIVA   45432   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+SVP1H40  PREVENTIVA   45432   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+SVP1H40  PREVENTIVA   45432   Chevromais Peças E Serviços Çtda-me      24555751000132  38-30157249     MG       MONTES CLAROS  
+SYG0C25  PREVENTIVA   45432   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SYG0C25  PREVENTIVA   45432   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SYG0C25  PREVENTIVA   45432   *a.p.s. Servicos Automotivos             27904784000139  31-35112953     MG       BETIM          
+SSX6E20  PREVENTIVA   45432   Sonia Aparecida dos Santos Botelho       8359330000180   35-35261664     MG       PASSOS         
+SSX6E20  PREVENTIVA   45432   Sonia Aparecida dos Santos Botelho       8359330000180   35-35261664     MG       PASSOS         
+SSW3B71  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSW3B71  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSW3B71  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSW3B71  PREVENTIVA   45433   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+STK6F80  PREVENTIVA   45433   *gp Pneus Ltda                           46378127001707  84-33463332     RN       NATAL          
+STK6F80  PREVENTIVA   45433   *gp Pneus Ltda                           46378127001707  84-33463332     RN       NATAL          
+STK6F80  PREVENTIVA   45433   *gp Pneus Ltda                           46378127001707  84-33463332     RN       NATAL          
+SUA0F91  PREVENTIVA   45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUA0F91  PREVENTIVA   45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUA0F91  PREVENTIVA   45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUA0F91  CORRETIVA    45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+SUA0F91  CORRETIVA    45433   Eduardo Coelho de Sousa Me               2653198000138   89-34831476     PI       SÃO JOÃO DO PIAUÍ
+STS2B21  PREVENTIVA   45433   *comercial Automotiva Ltda               45987005021004  34-21220450     MG       Ituiutaba      
+STS2B21  PREVENTIVA   45433   *comercial Automotiva Ltda               45987005021004  34-21220450     MG       Ituiutaba      
+STS2B21  PREVENTIVA   45433   *comercial Automotiva Ltda               45987005021004  34-21220450     MG       Ituiutaba      
+SUI8A40  PREVENTIVA   45436   M.f Auto Peças Ltda                      32118491000166  63-992186464    TO       Araguaína      
+SUI8A40  PREVENTIVA   45436   M.f Auto Peças Ltda                      32118491000166  63-992186464    TO       Araguaína      
+SUI8A40  PREVENTIVA   45436   M.f Auto Peças Ltda                      32118491000166  63-992186464    TO       Araguaína      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SUT5B10  PREVENTIVA   45433   Rg Pneus Ltda                            25567140001653  32-33335000     MG       BARBACENA      
+SYG0F08  PREVENTIVA   45446   *comercial Automotiva S.a.               45987005000350  19-37311700     SP       CAMPINAS       
+SYG0F08  PREVENTIVA   45446   *comercial Automotiva S.a.               45987005000350  19-37311700     SP       CAMPINAS       
+SYG0F08  PREVENTIVA   45446   *comercial Automotiva S.a.               45987005000350  19-37311700     SP       CAMPINAS       
+SYG0F08  PREVENTIVA   45446   *comercial Automotiva S.a.               45987005000350  19-37311700     SP       CAMPINAS       
+SSY0E21  PREVENTIVA   45446   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSY0E21  PREVENTIVA   45446   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSY0E21  PREVENTIVA   45446   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSY0E21  PREVENTIVA   45446   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SSY0E21  PREVENTIVA   45446   *comercial E Importadora de Pneus Ltda   61234985018070  71-32444643     BA       SALVADOR       
+SVF3J90  PREVENTIVA   45446   Claudia Alves Batista Galvao - Me        6333205000175   62-34512845     GO       Campos Belos   
+SVF3J90  PREVENTIVA   45446   Claudia Alves Batista Galvao - Me        6333205000175   62-34512845     GO       Campos Belos   
+SVF3J90  PREVENTIVA   45446   Claudia Alves Batista Galvao - Me        6333205000175   62-34512845     GO       Campos Belos   
+SVF3J90  PREVENTIVA   45446   Claudia Alves Batista Galvao - Me        6333205000175   62-34512845     GO       Campos Belos   
+SSS3A95  PREVENTIVA   45449   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSS3A95  PREVENTIVA   45449   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+SSS3A95  PREVENTIVA   45449   Delfino Centro Automotivo                2567178000144   82-81289625     AL       Maceió         
+STG0I81  PREVENTIVA   45441   *comercial E Import. de Pneus Ltda       61234985009918  19-34376088     SP       PIRACICABA     
+STG0I81  PREVENTIVA   45441   *comercial E Import. de Pneus Ltda       61234985009918  19-34376088     SP       PIRACICABA     
+STG0I81  PREVENTIVA   45441   *comercial E Import. de Pneus Ltda       61234985009918  19-34376088     SP       PIRACICABA     
+FQZ0G31  CORRETIVA    45446   Cayenne Comercio de Pecas Automotivas Ltda 12547676000260  12-974107914    SP       São José dos Campos
+FQZ0G31  CORRETIVA    45446   Cayenne Comercio de Pecas Automotivas Ltda 12547676000260  12-974107914    SP       São José dos Campos
+SUF4E30  PREVENTIVA   45447   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SUF4E30  PREVENTIVA   45447   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SUF4E30  PREVENTIVA   45447   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SVZ9B20  PREVENTIVA   45448   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SVZ9B20  PREVENTIVA   45448   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SVZ9B20  PREVENTIVA   45448   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SWP9F71  PREVENTIVA   45450   C V de Aguiar Comercio E Servicos Automotivos Ltda 17869020000104  85-988255095    CE       FORTALEZA      
+SWP9F71  PREVENTIVA   45450   C V de Aguiar Comercio E Servicos Automotivos Ltda 17869020000104  85-988255095    CE       FORTALEZA      
+SWP9F71  PREVENTIVA   45450   C V de Aguiar Comercio E Servicos Automotivos Ltda 17869020000104  85-988255095    CE       FORTALEZA      
+SUM9D30  CORRETIVA    45448   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SUM9D30  CORRETIVA    45448   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+GJE3J83  PREVENTIVA   45448   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+GJE3J83  PREVENTIVA   45448   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+GJE3J83  PREVENTIVA   45448   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+GJE3J83  PREVENTIVA   45448   *tyresoles de Sergipe Ind Com de Serv Ltda 13007828000113  79-32265025     SE       Aracaju        
+SYG0C76  PREVENTIVA   45448   Alinhamento Alfa Ltda                    9107015000128   31-33925088     MG       CONTAGEM       
+SYG0C76  PREVENTIVA   45448   Alinhamento Alfa Ltda                    9107015000128   31-33925088     MG       CONTAGEM       
+SYG0C76  PREVENTIVA   45448   Alinhamento Alfa Ltda                    9107015000128   31-33925088     MG       CONTAGEM       
+STI1F41  PRÉ-APROVADO 45453   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+STI1F41  PRÉ-APROVADO 45453   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+STI1F41  PRÉ-APROVADO 45453   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SYG0D18  PREVENTIVA   45447   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D18  PREVENTIVA   45447   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D18  PREVENTIVA   45447   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D18  PREVENTIVA   45447   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+SYG0D18  PREVENTIVA   45447   *della Via                               60957784001578  12-39049444     SP       São José dos Campos
+FGQ8C51  PREVENTIVA   45448   Pneus Canteiros Ltda                     1739141000193   88-35667550     CE       Iguatu         
+FGQ8C51  PREVENTIVA   45448   Pneus Canteiros Ltda                     1739141000193   88-35667550     CE       Iguatu         
+FGQ8C51  PREVENTIVA   45448   Pneus Canteiros Ltda                     1739141000193   88-35667550     CE       Iguatu         
+FGQ8C51  PREVENTIVA   45448   Pneus Canteiros Ltda                     1739141000193   88-35667550     CE       Iguatu         
+FHR5D11  PREVENTIVA   45450   Village Auto Center Ltda Me              8389184000135   33-34212922     MG       GUANHÃES       
+FHR5D11  PREVENTIVA   45450   Village Auto Center Ltda Me              8389184000135   33-34212922     MG       GUANHÃES       
+FHR5D11  PREVENTIVA   45450   Village Auto Center Ltda Me              8389184000135   33-34212922     MG       GUANHÃES       
+FHR5D11  PREVENTIVA   45450   Village Auto Center Ltda Me              8389184000135   33-34212922     MG       GUANHÃES       
+SYG0C56  CORRETIVA    45446   Dheltascap Comercio de Pecas E Acessorios Para Veiculos Eireli 8101379000138   24-33393749     RJ       VOLTA REDONDA  
+SYG0C87  PREVENTIVA   45449   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C87  PREVENTIVA   45449   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C87  PREVENTIVA   45449   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D47  PREVENTIVA   45450   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D47  PREVENTIVA   45450   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D47  PREVENTIVA   45450   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D67  PREVENTIVA   45453   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SYG0D67  PREVENTIVA   45453   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SYG0D67  PREVENTIVA   45453   Nerison Luis Vieira de Abreu/cia Ltda Me 1569107000118   87-5533132707   RS       SANTO ÂNGELO   
+SYG0C38  PREVENTIVA   45454   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0C38  PREVENTIVA   45454   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SYG0C38  PREVENTIVA   45454   Autech Centro Automotivo Ltda            5652810000146   51-37174777     RS       Santa Cruz Do Sul
+SUO1E11  CORRETIVA    45449   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SVC2E20  PREVENTIVA   45450   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+SVC2E20  PREVENTIVA   45450   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+SVC2E20  PREVENTIVA   45450   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+SYG0D25  CORRETIVA    45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  CORRETIVA    45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D38  PREVENTIVA   45455   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0D38  PREVENTIVA   45455   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0D29  PREVENTIVA   45460   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0D29  PREVENTIVA   45460   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0E67  PREVENTIVA   45456   *com. Aut. - São Leopoldo Rs             45987005007877  51-35681155     RS       SAO LEOPOLDO   
+SYG0E67  PREVENTIVA   45456   *com. Aut. - São Leopoldo Rs             45987005007877  51-35681155     RS       SAO LEOPOLDO   
+SYG0E67  PREVENTIVA   45456   *com. Aut. - São Leopoldo Rs             45987005007877  51-35681155     RS       SAO LEOPOLDO   
+SYG0D54  PREVENTIVA   45461   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+STH1B80  CORRETIVA    45453   Nipônica Comércio de Veículos Ltda.      7215045000122   35-32295000     MG       Varginha       
+FVR2H31  CORRETIVA    45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  CORRETIVA    45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+STU7A70  CORRETIVA    45457   Simplicio Veiculos Pecas E Servicos Ltda 65273898000117  38-35611901     MG       João Pinheiro  
+SYG0E86  PREVENTIVA   45463   Mecanica Uniao Ltda                      82637760000179  47-999791878    SC       BLUMENAU       
+SYG0E86  PREVENTIVA   45463   Mecanica Uniao Ltda                      82637760000179  47-999791878    SC       BLUMENAU       
+SYG0E86  PREVENTIVA   45463   Mecanica Uniao Ltda                      82637760000179  47-999791878    SC       BLUMENAU       
+SYG9I05  PREVENTIVA   45464   *pneuac Comercial E Importadora Ltda     61234985003472  27-32220791     ES       Vitória        
+SSY5E98  CORRETIVA    45463   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SVF3G60  CORRETIVA    45463   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SYG0C81  PREVENTIVA   45468   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0C81  PREVENTIVA   45468   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0C81  PREVENTIVA   45468   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0C34  PREVENTIVA   45468   Eletro Mecanica Bortoluz Ltda            88833207000198  54-32224070     RS       Caxias do Sul  
+SYG0C34  PREVENTIVA   45468   Eletro Mecanica Bortoluz Ltda            88833207000198  54-32224070     RS       Caxias do Sul  
+SYG0C34  PREVENTIVA   45468   Eletro Mecanica Bortoluz Ltda            88833207000198  54-32224070     RS       Caxias do Sul  
+SYG0E63  PREVENTIVA   45469   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E63  PREVENTIVA   45469   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E63  PREVENTIVA   45469   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E66  PREVENTIVA   45470   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0D51  PRÉ-APROVADO 45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D51  PRÉ-APROVADO 45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D51  PRÉ-APROVADO 45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C86  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C86  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C86  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C85  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C85  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C85  PRÉ-APROVADO 45462   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C94  PRÉ-APROVADO 45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C94  PRÉ-APROVADO 45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C94  PRÉ-APROVADO 45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D54  CORRETIVA    45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D54  CORRETIVA    45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0D54  CORRETIVA    45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C89  PREVENTIVA   45470   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SYG0C89  PREVENTIVA   45470   Joelson Kingeski Gamba - Me              93457497000152  51-984643002    RS       OSÓRIO         
+SUD3B80  CORRETIVA    45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SUD3B80  CORRETIVA    45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SUD3B80  CORRETIVA    45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SYG0E70  CORRETIVA    45461   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E70  CORRETIVA    45461   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SYG0E70  CORRETIVA    45461   *robson de Almeida Mecanica - Me         10550396000102  51-996541319    RS       PORTO ALEGRE   
+SVF3G60  PREVENTIVA   45463   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SVF3G60  PREVENTIVA   45463   *pneuac Maringa                          61234985012625  44-32622001     PR       MARINGÁ        
+SSV7I30  PREVENTIVA   45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SSV7I30  PREVENTIVA   45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SSV7I30  PREVENTIVA   45463   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E42  PREVENTIVA   45467   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+SYG0E42  PREVENTIVA   45467   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+SYG0E42  PREVENTIVA   45467   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+SYG0C44  PREVENTIVA   45467   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45467   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45467   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45467   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SYG0C44  PREVENTIVA   45467   Mecanica Zanella Ltda - Me               77026540000179  46-91076298     PR       Pato Branco    
+SVB5E80  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SVB5E80  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SVB5E80  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+STN9F50  PREVENTIVA   45446   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+STN9F50  PREVENTIVA   45446   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+STN9F50  PREVENTIVA   45446   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+SYG0C56  PREVENTIVA   45446   Dheltascap Comercio de Pecas E Acessorios Para Veiculos Eireli 8101379000138   24-33393749     RJ       VOLTA REDONDA  
+SYG0C56  PREVENTIVA   45446   Dheltascap Comercio de Pecas E Acessorios Para Veiculos Eireli 8101379000138   24-33393749     RJ       VOLTA REDONDA  
+SYG0C56  PREVENTIVA   45446   Dheltascap Comercio de Pecas E Acessorios Para Veiculos Eireli 8101379000138   24-33393749     RJ       VOLTA REDONDA  
+SUU7D91  PREVENTIVA   45446   Bm Eletromecanica Ltda                   2056727000116   51-997972287    RS       São Leopoldo   
+SUU7D91  PREVENTIVA   45446   Bm Eletromecanica Ltda                   2056727000116   51-997972287    RS       São Leopoldo   
+SUU7D91  PREVENTIVA   45446   Bm Eletromecanica Ltda                   2056727000116   51-997972287    RS       São Leopoldo   
+SUU7D91  PREVENTIVA   45446   Bm Eletromecanica Ltda                   2056727000116   51-997972287    RS       São Leopoldo   
+EWD3E54  PREVENTIVA   45447   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+EWD3E54  PREVENTIVA   45447   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+EWD3E54  PREVENTIVA   45447   Th Sc Comercio de Auto Pecas Eireli      24186903000509  81-37218343     PE       CARUARU        
+SUQ5I70  PREVENTIVA   45469   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SUQ5I70  PREVENTIVA   45469   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SUQ5I70  PREVENTIVA   45469   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SYG0C32  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C32  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0C32  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E26  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E26  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E26  PREVENTIVA   45468   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E43  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SYG0E43  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SYG0E43  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SYG0E43  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SSX5D90  PREVENTIVA   45455   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+SSX5D90  PREVENTIVA   45455   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+SSX5D90  PREVENTIVA   45455   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+SUR9G10  PREVENTIVA   45455   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SUR9G10  PREVENTIVA   45455   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SUR9G10  PREVENTIVA   45455   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SUR9G10  PREVENTIVA   45455   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SVQ5E61  PREVENTIVA   45450   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SVQ5E61  PREVENTIVA   45450   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SVQ5E61  PREVENTIVA   45450   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SUX4B51  PREVENTIVA   45455   Classic Mecanica de Automoveis Ltda      90540782000144  54-32282477     RS       CAXIAS DO SUL  
+SUX4B51  PREVENTIVA   45455   Classic Mecanica de Automoveis Ltda      90540782000144  54-32282477     RS       CAXIAS DO SUL  
+SUX4B51  PREVENTIVA   45455   Classic Mecanica de Automoveis Ltda      90540782000144  54-32282477     RS       CAXIAS DO SUL  
+SUG8B10  PREVENTIVA   45457   Vinilcar Centro Automotivo Ltda          11361878000179  41-35571348     PR       PINHAIS        
+SUG8B10  PREVENTIVA   45457   Vinilcar Centro Automotivo Ltda          11361878000179  41-35571348     PR       PINHAIS        
+SUG8B10  PREVENTIVA   45457   Vinilcar Centro Automotivo Ltda          11361878000179  41-35571348     PR       PINHAIS        
+STY9D30  CORRETIVA    45454   Yasmin Luiza Nalifico                    38359296000104  47-32785407     SC       Joinville      
+SYG0E81  PREVENTIVA   45454   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E81  PREVENTIVA   45454   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E81  PREVENTIVA   45454   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E81  PREVENTIVA   45454   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SYG0E81  PREVENTIVA   45454   *gp Pneus Ltda                           46378127005885  51-993162920    RS       PORTO ALEGRE   
+SST1C51  PREVENTIVA   45469   Avant Car Centro Automotivo Ltda         48031296000134  54-32253240     RS       CAXIAS DO SUL  
+SST1C51  PREVENTIVA   45469   Avant Car Centro Automotivo Ltda         48031296000134  54-32253240     RS       CAXIAS DO SUL  
+SST1C51  PREVENTIVA   45469   Avant Car Centro Automotivo Ltda         48031296000134  54-32253240     RS       CAXIAS DO SUL  
+SST1C51  PREVENTIVA   45469   Avant Car Centro Automotivo Ltda         48031296000134  54-32253240     RS       CAXIAS DO SUL  
+SUQ0I70  PREVENTIVA   45467   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SUQ0I70  PREVENTIVA   45467   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SUQ0I70  PREVENTIVA   45467   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+SUQ0I70  PREVENTIVA   45467   *comercial E Importadora de Pneus Ltda   61234985000961  43-33270132     PR       Londrina       
+STF8E81  PREVENTIVA   45470   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+STF8E81  PREVENTIVA   45470   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+STF8E81  PREVENTIVA   45470   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+STF8E81  PREVENTIVA   45470   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+STF8E81  PREVENTIVA   45470   *gp Pneus Ltda                           46378127003912  51-32248584     RS       Porto Alegre   
+SVH7D11  PREVENTIVA   45469   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVH7D11  PREVENTIVA   45469   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVH7D11  PREVENTIVA   45469   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVH7D11  PREVENTIVA   45469   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SVH7D11  PREVENTIVA   45469   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D66  PREVENTIVA   45467   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0D66  PREVENTIVA   45467   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0D66  PREVENTIVA   45467   *gp Pneus Ltda                           46378127006423  51-35951304     RS       NOVO HAMBURGO  
+SYG0E50  PREVENTIVA   45467   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E50  PREVENTIVA   45467   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SYG0E50  PREVENTIVA   45467   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SUH1J81  PREVENTIVA   45468   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SUH1J81  PREVENTIVA   45468   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SUH1J81  PREVENTIVA   45468   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SVO3G01  PREVENTIVA   45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SVO3G01  PREVENTIVA   45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+SVO3G01  PREVENTIVA   45464   *nk Auto Center Ltda                     44234207000104  51-33912009     RS       PORTO ALEGRE   
+EIY2G32  PREVENTIVA   45467   Mauricio Sales Cardoso                   18903368000125  51-32064999     RS       SAPUCAIA DO SUL
+EIY2G32  PREVENTIVA   45467   Mauricio Sales Cardoso                   18903368000125  51-32064999     RS       SAPUCAIA DO SUL
+EIY2G32  PREVENTIVA   45467   Mauricio Sales Cardoso                   18903368000125  51-32064999     RS       SAPUCAIA DO SUL
+EIY2G32  PREVENTIVA   45467   Mauricio Sales Cardoso                   18903368000125  51-32064999     RS       SAPUCAIA DO SUL
+SYG0F19  CORRETIVA    45463   Marcelo Zanelato Epp                     3412449000155   48-34387386     SC       CRICIÚMA       
+SYG0F19  CORRETIVA    45463   Marcelo Zanelato Epp                     3412449000155   48-34387386     SC       CRICIÚMA       
+SYG0F19  CORRETIVA    45463   Marcelo Zanelato Epp                     3412449000155   48-34387386     SC       CRICIÚMA       
+SYG0F19  CORRETIVA    45463   Marcelo Zanelato Epp                     3412449000155   48-34387386     SC       CRICIÚMA       
+SYG0F19  CORRETIVA    45463   Marcelo Zanelato Epp                     3412449000155   48-34387386     SC       CRICIÚMA       
+SVE2I50  PREVENTIVA   45467   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SVE2I50  PREVENTIVA   45467   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SVE2I50  PREVENTIVA   45467   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+SVE2I50  PREVENTIVA   45467   Lcr Autocenter Serviços Automotivos Ltda 23950735000181  48-30667978     SC       SÃO JOSÉ       
+STH5B60  PREVENTIVA   45455   Centro Automotivo Fiuza Lima             36378837000116  47-30216827     SC       ITAJAÍ         
+STH5B60  PREVENTIVA   45455   Centro Automotivo Fiuza Lima             36378837000116  47-30216827     SC       ITAJAÍ         
+STH5B60  PREVENTIVA   45455   Centro Automotivo Fiuza Lima             36378837000116  47-30216827     SC       ITAJAÍ         
+STR1H00  PREVENTIVA   45456   Yasmin Luiza Nalifico                    38359296000104  47-32785407     SC       Joinville      
+STR1H00  PREVENTIVA   45456   Yasmin Luiza Nalifico                    38359296000104  47-32785407     SC       Joinville      
+STR1H00  PREVENTIVA   45456   Yasmin Luiza Nalifico                    38359296000104  47-32785407     SC       Joinville      
+GCC3E31  PREVENTIVA   45455   Comercial Diesel Eletrica Vieira Ltda    95627014000146  55-991657115    RS       SANTA MARIA    
+GCC3E31  PREVENTIVA   45455   Comercial Diesel Eletrica Vieira Ltda    95627014000146  55-991657115    RS       SANTA MARIA    
+GCC3E31  PREVENTIVA   45455   Comercial Diesel Eletrica Vieira Ltda    95627014000146  55-991657115    RS       SANTA MARIA    
+STX5G11  PREVENTIVA   45449   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STX5G11  PREVENTIVA   45449   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STX5G11  PREVENTIVA   45449   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STX5G11  PREVENTIVA   45449   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+STX5G11  PREVENTIVA   45449   Elizete Silva Castro Epp                 2975038000105   49-33239981     SC       Chapecó        
+SYG0E87  PREVENTIVA   45449   Twi Centro Automotivo Ltda               40790550000176  47-36421281     SC       MAFRA          
+SYG0E87  PREVENTIVA   45449   Twi Centro Automotivo Ltda               40790550000176  47-36421281     SC       MAFRA          
+SYG0E87  PREVENTIVA   45449   Twi Centro Automotivo Ltda               40790550000176  47-36421281     SC       MAFRA          
+SYG0E87  PREVENTIVA   45449   Twi Centro Automotivo Ltda               40790550000176  47-36421281     SC       MAFRA          
+SYG0E87  PREVENTIVA   45449   Twi Centro Automotivo Ltda               40790550000176  47-36421281     SC       MAFRA          
+STD0E81  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+STD0E81  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+STD0E81  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SUO1E11  PREVENTIVA   45449   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUO1E11  PREVENTIVA   45449   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUO1E11  PREVENTIVA   45449   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+SUO1E11  PREVENTIVA   45449   Rabelo E Caproni Centro Automotivo Ltda  15447419000163  35-37411665     MG       BOTELHOS       
+FZW6H81  PREVENTIVA   45450   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+FZW6H81  PREVENTIVA   45450   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+FZW6H81  PREVENTIVA   45450   *gp Pneus Ltda                           46378127007586  44-33540774     PR       Maringá        
+SUE9B70  PREVENTIVA   45450   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SUE9B70  PREVENTIVA   45450   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SUE9B70  PREVENTIVA   45450   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SUE9B70  PREVENTIVA   45450   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SUE9B70  PREVENTIVA   45450   M M Car Truck - Alinhamento E Balanceamento Ltda 20089853000159  43-35231233     PR       CORNÉLIO PROCÓPIO
+SUK3G60  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SUK3G60  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D43  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D43  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D43  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D43  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D43  PREVENTIVA   45450   *comercial E Importadora de Pneus Ltda   61234985015993  41-33621038     PR       CURITIBA       
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+SYG0D25  PREVENTIVA   45450   Autocenter Tannus Ltda                   49943732000104  91-21212713     PA       BELÉM          
+STE3F61  PREVENTIVA   45456   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+STE3F61  PREVENTIVA   45456   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+STE3F61  PREVENTIVA   45456   *ricamar Pneus Ltda                      28548873000829  21-27341366     RJ       RIO BONITO     
+STO4A61  PREVENTIVA   45456   Bm Auto Express Locadora de Veiculos Ltda 46461249000103  84-33431482     RN       NATAL          
+STO4A61  PREVENTIVA   45456   Bm Auto Express Locadora de Veiculos Ltda 46461249000103  84-33431482     RN       NATAL          
+STO4A61  PREVENTIVA   45456   Bm Auto Express Locadora de Veiculos Ltda 46461249000103  84-33431482     RN       NATAL          
+SSR1F55  CORRETIVA    45450   Auto Center Eric Osvin Ltda              38403151000163  63-33126323     TO       GURUPI         
+SSR1F55  CORRETIVA    45450   Auto Center Eric Osvin Ltda              38403151000163  63-33126323     TO       GURUPI         
+SSR1F55  CORRETIVA    45450   Auto Center Eric Osvin Ltda              38403151000163  63-33126323     TO       GURUPI         
+SSR1F55  CORRETIVA    45450   Auto Center Eric Osvin Ltda              38403151000163  63-33126323     TO       GURUPI         
+SYG0C59  PREVENTIVA   45456   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SYG0C59  PREVENTIVA   45456   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SYG0C59  PREVENTIVA   45456   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SSX5I41  PREVENTIVA   45457   45.424.147 Ltda                          45424147000228  88-21568560     CE       JUAZEIRO DO NORTE
+SSX5I41  PREVENTIVA   45457   45.424.147 Ltda                          45424147000228  88-21568560     CE       JUAZEIRO DO NORTE
+SSX5I41  PREVENTIVA   45457   45.424.147 Ltda                          45424147000228  88-21568560     CE       JUAZEIRO DO NORTE
+STK3I11  PREVENTIVA   45457   D J F Carvalho Pneus                     26537749000166  86-33057593     PI       Teresina       
+STK3I11  PREVENTIVA   45457   D J F Carvalho Pneus                     26537749000166  86-33057593     PI       Teresina       
+STK3I11  PREVENTIVA   45457   D J F Carvalho Pneus                     26537749000166  86-33057593     PI       Teresina       
+FVR2H31  PREVENTIVA   45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+FVR2H31  PREVENTIVA   45457   *comercial E Importadora de Pneus Ltda   61234985014679  35-32922522     MG       ALFENAS        
+STB0H41  PREVENTIVA   45457   *comercial E Importadora de Pneus        61234985017694  34-32122577     MG       UBERLÂNDIA     
+STB0H41  PREVENTIVA   45457   *comercial E Importadora de Pneus        61234985017694  34-32122577     MG       UBERLÂNDIA     
+STB0H41  PREVENTIVA   45457   *comercial E Importadora de Pneus        61234985017694  34-32122577     MG       UBERLÂNDIA     
+STL3A61  PREVENTIVA   45457   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+STL3A61  PREVENTIVA   45457   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+STL3A61  PREVENTIVA   45457   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+SVO1I90  PREVENTIVA   45456   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45456   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45456   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SVO1I90  PREVENTIVA   45456   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+STH1C45  PREVENTIVA   45460   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STH1C45  PREVENTIVA   45460   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STH1C45  PREVENTIVA   45460   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+SUO0B81  PREVENTIVA   45463   Box Premium Ltda                         52135742000128  62-92641216     GO       APARECIDA DE GOIÂNIA
+SUO0B81  PREVENTIVA   45463   Box Premium Ltda                         52135742000128  62-92641216     GO       APARECIDA DE GOIÂNIA
+SUO0B81  PREVENTIVA   45463   Box Premium Ltda                         52135742000128  62-92641216     GO       APARECIDA DE GOIÂNIA
+SSR2H50  PREVENTIVA   45457   Auto Center Pai E Filhos Comercio E Servicos Ltda 19003016000186  31-36498742     MG       Santa Luzia    
+SSR2H50  PREVENTIVA   45457   Auto Center Pai E Filhos Comercio E Servicos Ltda 19003016000186  31-36498742     MG       Santa Luzia    
+SSR2H50  PREVENTIVA   45457   Auto Center Pai E Filhos Comercio E Servicos Ltda 19003016000186  31-36498742     MG       Santa Luzia    
+STU7A70  PREVENTIVA   45457   Simplicio Veiculos Pecas E Servicos Ltda 65273898000117  38-35611901     MG       João Pinheiro  
+STU7A70  PREVENTIVA   45457   Simplicio Veiculos Pecas E Servicos Ltda 65273898000117  38-35611901     MG       João Pinheiro  
+STU7A70  PREVENTIVA   45457   Simplicio Veiculos Pecas E Servicos Ltda 65273898000117  38-35611901     MG       João Pinheiro  
+SUI6E40  PREVENTIVA   45460   Isabel Cristina Soares D.s. Rocha - Auto Center 43046497000191  34-32102828     MG       UBERLÂNDIA     
+SUI6E40  PREVENTIVA   45460   Isabel Cristina Soares D.s. Rocha - Auto Center 43046497000191  34-32102828     MG       UBERLÂNDIA     
+SUI6E40  PREVENTIVA   45460   Isabel Cristina Soares D.s. Rocha - Auto Center 43046497000191  34-32102828     MG       UBERLÂNDIA     
+SUI6E40  PREVENTIVA   45460   Isabel Cristina Soares D.s. Rocha - Auto Center 43046497000191  34-32102828     MG       UBERLÂNDIA     
+STW2D41  PREVENTIVA   45461   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+STW2D41  PREVENTIVA   45461   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+STW2D41  PREVENTIVA   45461   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+GDZ8I71  PREVENTIVA   45460   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+GDZ8I71  PREVENTIVA   45460   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+GDZ8I71  PREVENTIVA   45460   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+STH6H40  PREVENTIVA   45462   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+STH6H40  PREVENTIVA   45462   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+STH6H40  PREVENTIVA   45462   Mecanica Na Hora Ltda                    6518211000105   86-999293107    PI       TERESINA       
+SYG0C69  PREVENTIVA   45460   Centro Automotivo Nova Santa Cruz Ltda   49212492000178  15-32346340     SP       SOROCABA       
+SYG0C69  PREVENTIVA   45460   Centro Automotivo Nova Santa Cruz Ltda   49212492000178  15-32346340     SP       SOROCABA       
+SYG0C69  PREVENTIVA   45460   Centro Automotivo Nova Santa Cruz Ltda   49212492000178  15-32346340     SP       SOROCABA       
+SYG0C69  PREVENTIVA   45460   Centro Automotivo Nova Santa Cruz Ltda   49212492000178  15-32346340     SP       SOROCABA       
+SUK1D80  PREVENTIVA   45457   *comercial E Importadora de Pneus Ltda   61234985001186  16-36106916     SP       RIBEIRÃO PRETO 
+SUK1D80  PREVENTIVA   45457   *comercial E Importadora de Pneus Ltda   61234985001186  16-36106916     SP       RIBEIRÃO PRETO 
+STV2A11  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985014830  35-37141575     MG       Poços de Caldas
+STV2A11  PREVENTIVA   45462   *comercial E Importadora de Pneus Ltda   61234985014830  35-37141575     MG       Poços de Caldas
+SYG0D08  PREVENTIVA   45462   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SYG0D08  PREVENTIVA   45462   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SYG0D08  PREVENTIVA   45462   Premium Center Car Eireli                33390488000160  15-33420272     SP       SOROCABA       
+SWK0I20  PREVENTIVA   45462   Fox Pneus Ltda                           3983300000126   69-32173040     RO       PORTO VELHO    
+SWK0I20  PREVENTIVA   45462   Fox Pneus Ltda                           3983300000126   69-32173040     RO       PORTO VELHO    
+SWK0I20  PREVENTIVA   45462   Fox Pneus Ltda                           3983300000126   69-32173040     RO       PORTO VELHO    
+SUP1C71  PREVENTIVA   45453   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SUP1C71  PREVENTIVA   45453   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+SUP1C71  PREVENTIVA   45453   **full Pneus E Serv Autom Ltda           7198620000126   21-27656700     RJ       Nova Iguaçu    
+STI3F10  PREVENTIVA   45454   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+STI3F10  PREVENTIVA   45454   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+STI3F10  PREVENTIVA   45454   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SSZ7A51  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SSZ7A51  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SSZ7A51  PREVENTIVA   45455   2 L Centro Automotivo Ltda               46512991000192  31-33908596     MG       BELO HORIZONTE 
+SSW1J31  PREVENTIVA   45455   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SSW1J31  PREVENTIVA   45455   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SSW1J31  PREVENTIVA   45455   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+STY8E55  PREVENTIVA   45454   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STY8E55  PREVENTIVA   45454   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STY8E55  PREVENTIVA   45454   *alexsandro Melo de Sousa-me             18027889000166  85-32321268     CE       Fortaleza      
+STL3E90  PREVENTIVA   45455   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+STL3E90  PREVENTIVA   45455   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+STL3E90  PREVENTIVA   45455   Arraes Comercio de Pecas E Servicos Automotivos Ltda 7648847000126   82-993093388    AL       MACEIÓ         
+STJ9E43  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STJ9E43  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STJ9E43  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STJ9E43  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45467   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45467   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45467   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SYG0C40  PREVENTIVA   45467   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSX0F40  PREVENTIVA   45467   *gp Pneus Ltda                           46378127000492  83-30310043     PB       JOÃO PESSOA    
+SSX0F40  PREVENTIVA   45467   *gp Pneus Ltda                           46378127000492  83-30310043     PB       JOÃO PESSOA    
+SSX0F40  PREVENTIVA   45467   *gp Pneus Ltda                           46378127000492  83-30310043     PB       JOÃO PESSOA    
+SSY5E98  PREVENTIVA   45463   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSY5E98  PREVENTIVA   45463   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSY5E98  PREVENTIVA   45463   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSV9I01  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSV9I01  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+SSV9I01  PREVENTIVA   45464   Maria Helena Ferreira                    26277769000145  71-991587109    BA       SÃO SEBASTIÃO DO PASSÉ
+STK5J11  PREVENTIVA   45463   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+STK5J11  PREVENTIVA   45463   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+STK5J11  PREVENTIVA   45463   *gp Pneus Ltda                           46378127003084  31-35829856     MG       BELO HORIZONTE 
+SUF5F20  PREVENTIVA   45464   *comercial E Importadora de Pneus Ltda   61234985005840  31-3135921091   MG       BETIM          
+SUF5F20  PREVENTIVA   45464   *comercial E Importadora de Pneus Ltda   61234985005840  31-3135921091   MG       BETIM          
+SUF5F20  PREVENTIVA   45464   *comercial E Importadora de Pneus Ltda   61234985005840  31-3135921091   MG       BETIM          
+SYG0D76  PREVENTIVA   45463   *dan Luc Muniz Pneus Ltda                41326769000181  21-26056282     RJ       SÃO GONÇALO    
+SYG0D76  PREVENTIVA   45463   *dan Luc Muniz Pneus Ltda                41326769000181  21-26056282     RJ       SÃO GONÇALO    
+SYG0D76  PREVENTIVA   45463   *dan Luc Muniz Pneus Ltda                41326769000181  21-26056282     RJ       SÃO GONÇALO    
+SUD3B80  PREVENTIVA   45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SUD3B80  PREVENTIVA   45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SUD3B80  PREVENTIVA   45464   Lm Reparacoes Automotivas Ltda           32912593000159  12-39299900     SP       SÃO JOSÉ DOS CAMPOS
+SYG0D09  PREVENTIVA   45464   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SYG0D09  PREVENTIVA   45464   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SYG0D09  PREVENTIVA   45464   *com. Aut. - Araraquara                  45987005013176  16-33032599     SP       ARARAQUARA     
+SUQ2J31  PREVENTIVA   45468   *comercial Automotiva S.a.               45987005020628  64-34428000     GO       CATALÃO        
+SUQ2J31  PREVENTIVA   45468   *comercial Automotiva S.a.               45987005020628  64-34428000     GO       CATALÃO        
+SUQ2J31  PREVENTIVA   45468   *comercial Automotiva S.a.               45987005020628  64-34428000     GO       CATALÃO        
+SUQ2J31  PREVENTIVA   45468   *comercial Automotiva S.a.               45987005020628  64-34428000     GO       CATALÃO        
+STW1B30  PREVENTIVA   45468   Elivaine Patricia Sant Ana Gomes Ltda    48238583000110  64-30509024     GO       RIO VERDE      
+STW1B30  PREVENTIVA   45468   Elivaine Patricia Sant Ana Gomes Ltda    48238583000110  64-30509024     GO       RIO VERDE      
+STW1B30  PREVENTIVA   45468   Elivaine Patricia Sant Ana Gomes Ltda    48238583000110  64-30509024     GO       RIO VERDE      
+STS1C84  PREVENTIVA   45464   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STS1C84  PREVENTIVA   45464   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STS1C84  PREVENTIVA   45464   *comercial Importadora de Pneus Ltda     61234985017260  73-32155343     BA       ITABUNA        
+STW0E51  PREVENTIVA   45468   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+STW0E51  PREVENTIVA   45468   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+STW0E51  PREVENTIVA   45468   Abs Car Serviço Automotivos Ltda         48882320000149  81-30350472     PE       Recife         
+SUJ0J20  PREVENTIVA   45470   *comercial E Importadora de Pneus Ltda   61234985007117  81-979020168    PE       RECIFE         
+SUJ0J20  PREVENTIVA   45470   *comercial E Importadora de Pneus Ltda   61234985007117  81-979020168    PE       RECIFE         
+SUW6A05  PREVENTIVA   45469   *pneus Canteiros Ltda                    1739141000436   88-8835125050   CE       JUAZEIRO DO NORTE
+SUW6A05  PREVENTIVA   45469   *pneus Canteiros Ltda                    1739141000436   88-8835125050   CE       JUAZEIRO DO NORTE
+SUW6A05  PREVENTIVA   45469   *pneus Canteiros Ltda                    1739141000436   88-8835125050   CE       JUAZEIRO DO NORTE
+SUS0J11  PREVENTIVA   45469   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+SUS0J11  PREVENTIVA   45469   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+SUS0J11  PREVENTIVA   45469   Jailson Auto Service Ltda                6556064000150   89-994028086    PI       FLORIANO       
+SVJ8E00  PREVENTIVA   45470   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+SVJ8E00  PREVENTIVA   45470   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+SVJ8E00  PREVENTIVA   45470   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+SVJ8E00  PREVENTIVA   45470   Danilo Almondes Jaques - Epp             4751218000139   89-34224350     PI       Picos          
+STT2C10  PREVENTIVA   45470   *fox Pneus Ltda                          3983300000550   69-34212711     RO       JI-PARANÁ      
+STT2C10  PREVENTIVA   45470   *fox Pneus Ltda                          3983300000550   69-34212711     RO       JI-PARANÁ      
+STT2C10  PREVENTIVA   45470   *fox Pneus Ltda                          3983300000550   69-34212711     RO       JI-PARANÁ      
+STT2C10  PREVENTIVA   45470   *fox Pneus Ltda                          3983300000550   69-34212711     RO       JI-PARANÁ      
+SVE5H70  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SVE5H70  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SVE5H70  PREVENTIVA   45467   Auto Center Freitas Centro Automotivo Ltda 57119398000105  11-28519701     SP       SÃO PAULO      
+SSX5D90  CORRETIVA    45463   Car System Instalacao Conversao E Manutencao de Veiculos Ltda 8627290000100   51-33988925     RS       Porto Alegre   
+SVB6D11  PREVENTIVA   45475   J. O. Dacosta Veiculos                   23570518000166  88-36711494     CE       TIANGUÁ        
+SVB6D11  PREVENTIVA   45475   J. O. Dacosta Veiculos                   23570518000166  88-36711494     CE       TIANGUÁ        
+SVB6D11  PREVENTIVA   45475   J. O. Dacosta Veiculos                   23570518000166  88-36711494     CE       TIANGUÁ        

@@ -4,18 +4,18 @@ import lombok.Data;
 
 @Data
 public class Atendimento {
-    private String placa;
-    private String tipoAtendimento;
-    private String os;
-    private String data;
-    private String status;
-    private String dataAbertura;
-    private String fornecedor;
-    private String estado;
-    private String cidade;
-    private String codsap;
+    public String placa;
+    public String tipoAtendimento;
+    public String os;
+    public String data;
+    public String status;
+    public String dataAbertura;
+    public String fornecedor;
+    public String estado;
+    public String cidade;
+    public String codsap;
 
-    private String cnpj;
-    private String telefone;
-    private String localizacao;
+    public String cnpj;
+    public String telefone;
+    public String localizacao;
 }

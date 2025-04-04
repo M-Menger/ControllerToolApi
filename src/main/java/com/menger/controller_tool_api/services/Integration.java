@@ -1,15 +1,19 @@
 package com.menger.controller_tool_api.services;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.menger.controller_tool_api.models.Atendimento;
 import com.menger.controller_tool_api.models.Prestadores;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 @Service
 public class Integration {
@@ -41,7 +45,17 @@ public class Integration {
         cruzamentoDados(atendimentos, prestadores);
         logResultado(atendimentos);
 
-        return exibirResultado(atendimentos);  // Agora consistente
+        return cardJson(atendimentos);  // Retorna como JSON
+    }
+
+    public String convertToJson(List<Atendimento> atendimentos) {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            return mapper.writeValueAsString(atendimentos);
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+            return "{\"error\": \"Failed to convert to JSON\"}";
+        }
     }
 
     public void cruzamentoDados(List<Atendimento> atendimentos, List<Prestadores> prestadores) {
@@ -75,6 +89,29 @@ public class Integration {
         }
 
         return result.toString();
+    }
+
+    public String cardJson(List<Atendimento> atendimentos) {
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            List<Map<String, String>> resultados = new ArrayList<>();
+
+            for (Atendimento atendimento : atendimentos) {
+                Map<String, String> item = new LinkedHashMap<>();
+                item.put("placa", atendimento.getPlaca());
+                item.put("atendimento", atendimento.getTipoAtendimento());
+                item.put("data", atendimento.getData());
+                item.put("razao_social", atendimento.getFornecedor());
+                item.put("cnpj", atendimento.getCnpj() != null ? atendimento.getCnpj() : "N/A");
+                item.put("telefone", atendimento.getTelefone() != null ? atendimento.getTelefone() : "N/A");
+                resultados.add(item);
+            }
+
+            return mapper.writeValueAsString(resultados);
+        } catch (JsonProcessingException e) {
+            e.printStackTrace();
+            return "{\"error\": \"Failed to convert to JSON\"}";
+        }
     }
 
     public void logResultado(List<Atendimento> atendimentos) throws IOException {

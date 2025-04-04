@@ -4,11 +4,11 @@ import lombok.Data;
 
 @Data
 public class Prestadores {
-    private String razaoSocial;
-    private String cnpj;
-    private String estado;
-    private String cidade;
-    private String telefone;
-    private String local;
-    private String codsap;
+    public String razaoSocial;
+    public String cnpj;
+    public String estado;
+    public String cidade;
+    public String telefone;
+    public String local;
+    public String codsap;
 }

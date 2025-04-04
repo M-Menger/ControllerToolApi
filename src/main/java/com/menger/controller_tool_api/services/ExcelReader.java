@@ -34,8 +34,7 @@ public class ExcelReader {
                 atendimento.setFornecedor(getStringValue(row.getCell(16)));
                 atendimento.setEstado(getStringValue(row.getCell(18)));
                 atendimento.setCidade(getStringValue(row.getCell(17)));
-
-                atendimento.setCodsap(getStringValue(row.getCell(20))); // Pega o CNPJ usar DadosBi3.xslx
+                atendimento.setCodsap(getStringValue(row.getCell(20)));
 
                 atendimentos.add(atendimento);
             }

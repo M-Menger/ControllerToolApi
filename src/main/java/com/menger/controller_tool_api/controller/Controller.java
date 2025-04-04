@@ -15,8 +15,9 @@ public class Controller {
     @Autowired
     private Integration integration;
 
-    @GetMapping
+    @GetMapping()
     public String atendimentos() throws IOException {
         return integration.runApp();
     }
+
 }

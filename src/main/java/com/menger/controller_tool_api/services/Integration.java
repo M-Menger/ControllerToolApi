@@ -64,31 +64,11 @@ public class Integration {
                 if (atendimento.getCodsap().equalsIgnoreCase(prestador.getCodsap())) {
                     atendimento.setCnpj(prestador.getCnpj());
                     atendimento.setTelefone(prestador.getTelefone());
+                    atendimento.setLocalizacao(prestador.getLocal());
                     break;
                 }
             }
         }
-    }
-
-    public String exibirResultado(List<Atendimento> atendimentos) {
-        StringBuilder result = new StringBuilder();
-        result.append("Resultado:\n");
-        result.append("-".repeat(100)).append("\n");
-        result.append(String.format("%-8s %-12s %-7s %-40s %-15s %-15s%n",
-                "Placa", "Atendimento", "Data", "Razão Social", "CNPJ", "Telefone"));
-        result.append("-".repeat(100)).append("\n");
-
-        for (Atendimento atendimento : atendimentos) {
-            result.append(String.format("%-8s %-12s %-7s %-40s %-15s %-15s%n",
-                    atendimento.getPlaca(),
-                    atendimento.getTipoAtendimento(),
-                    atendimento.getData(),
-                    atendimento.getFornecedor(),
-                    atendimento.getCnpj() != null ? atendimento.getCnpj() : "N/A",
-                    atendimento.getTelefone() != null ? atendimento.getTelefone() : "N/A"));
-        }
-
-        return result.toString();
     }
 
     public String cardJson(List<Atendimento> atendimentos) {
@@ -104,6 +84,7 @@ public class Integration {
                 item.put("razao_social", atendimento.getFornecedor());
                 item.put("cnpj", atendimento.getCnpj() != null ? atendimento.getCnpj() : "N/A");
                 item.put("telefone", atendimento.getTelefone() != null ? atendimento.getTelefone() : "N/A");
+                item.put("local", atendimento.getLocalizacao() != null ? atendimento.getLocalizacao() : "N/A");
                 resultados.add(item);
             }
 
@@ -117,13 +98,13 @@ public class Integration {
     public void logResultado(List<Atendimento> atendimentos) throws IOException {
 
         try (PrintWriter writer = new PrintWriter(new FileWriter("log.txt"))) {
-            writer.println("-".repeat(140));
-            writer.printf("%-8s %-12s %-7s %-40s %-15s %-15s %-8s %-15s%n",
-                    "Placa", "Atendimento", "Data", "Razão Social", "CNPJ", "Telefone", "Estado", "Cidade");
-            writer.println("-".repeat(140));
+            writer.println("-".repeat(180));
+            writer.printf("%-8s %-12s %-7s %-40s %-15s %-15s %-8s %-15s %25s%n",
+                    "Placa", "Atendimento", "Data", "Razão Social", "CNPJ", "Telefone", "Estado", "Cidade", "Localização");
+            writer.println("-".repeat(180));
 
             for (Atendimento atendimento : atendimentos) {
-                writer.printf("%-8s %-12s %-7s %-40s %-15s %-15s %-8s %-15s%n",
+                writer.printf("%-8s %-12s %-7s %-40s %-15s %-15s %-8s %-15s %25s%n",
                         atendimento.getPlaca(),
                         atendimento.getTipoAtendimento(),
                         atendimento.getData(),
@@ -131,7 +112,9 @@ public class Integration {
                         atendimento.getCnpj() != null ? atendimento.getCnpj() : "N/A",
                         atendimento.getTelefone() != null ? atendimento.getTelefone() : "N/A",
                         atendimento.getEstado(),
-                        atendimento.getCidade());
+                        atendimento.getCidade(),
+                        atendimento.getLocalizacao());
+
             }
         } catch (IOException e) {
             throw new IOException("[ERROR]"+e);

@@ -6,20 +6,12 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.IOException;
-import java.io.InputStream;
-
 @RestController
 @RequestMapping("/services")
 public class Controller {
 
     @Autowired
     private Integration integration;
-
-    @GetMapping()
-    public String atendimentos() throws IOException {
-        return integration.runApp();
-    }
 
     @PostMapping("/upload")
     public ResponseEntity<String> uploadExcelFile(@RequestParam("file")MultipartFile file) {
@@ -31,12 +23,10 @@ public class Controller {
                 return ResponseEntity.badRequest().body("Apenas arquivos .xlsx são suportados");
             }
 
-            InputStream inputStream = file.getInputStream();
-
-            return ResponseEntity.ok("Arquivo recebido com sucesso: " + file.getOriginalFilename());
+            String jsonResult = integration.processExcelFile(file);
+            return ResponseEntity.ok(jsonResult);
         } catch (Exception e) {
             return ResponseEntity.status(500).body("Falha ao processar o arquivo: "+ e.getMessage());
         }
     }
-
 }

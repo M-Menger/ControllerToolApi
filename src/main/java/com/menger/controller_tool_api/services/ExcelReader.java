@@ -7,17 +7,15 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import java.io.FileInputStream;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
 public class ExcelReader {
-    public List<Atendimento> readAtendimentos(String filePath) {
+    public List<Atendimento> readAtendimentos(InputStream inputStream) {
         List<Atendimento> atendimentos = new ArrayList<>();
 
-        try (FileInputStream fis = new FileInputStream(filePath);
-             Workbook workbook = new XSSFWorkbook(fis)) {
-
+        try (Workbook workbook = new XSSFWorkbook(inputStream)) {
             Sheet sheet = workbook.getSheetAt(0);
 
             for (Row row : sheet) {

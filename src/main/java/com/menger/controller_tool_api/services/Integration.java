@@ -4,8 +4,8 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.menger.controller_tool_api.models.Atendimento;
 import com.menger.controller_tool_api.models.Prestadores;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,18 +18,6 @@ import java.util.Map;
 @Service
 public class Integration {
 
-    @Value("${excel.file.path}")
-    private String excelFilePath;
-
-    @Value("${database.url}")
-    private String dbUrl;
-
-    @Value("${database.username}")
-    private String dbUsername;
-
-    @Value("${database.password}")
-    private String dbPassword;
-
     private final ExcelReader excelReader;
     private final DBConnection dbConnection;
 
@@ -38,24 +26,14 @@ public class Integration {
         this.dbConnection = dbConnection;
     }
 
-    public String runApp() throws IOException {
-        List<Atendimento> atendimentos = excelReader.readAtendimentos(excelFilePath);
+    public String processExcelFile(MultipartFile file) throws IOException {
+        List<Atendimento> atendimentos = excelReader.readAtendimentos(file.getInputStream());
         List<Prestadores> prestadores = dbConnection.getPrestadores();
 
         cruzamentoDados(atendimentos, prestadores);
         logResultado(atendimentos);
 
-        return cardJson(atendimentos);  // Retorna como JSON
-    }
-
-    public String convertToJson(List<Atendimento> atendimentos) {
-        try {
-            ObjectMapper mapper = new ObjectMapper();
-            return mapper.writeValueAsString(atendimentos);
-        } catch (JsonProcessingException e) {
-            e.printStackTrace();
-            return "{\"error\": \"Failed to convert to JSON\"}";
-        }
+        return cardJson(atendimentos);
     }
 
     public void cruzamentoDados(List<Atendimento> atendimentos, List<Prestadores> prestadores) {

@@ -7,21 +7,31 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DBConnection {
-    private final String url;
-    private final String user;
-    private final String password;
 
-    public DBConnection(String url, String user, String password) {
-        this.url = url;
-        this.user = user;
-        this.password = password;
+    private static final String PASSWORD = "Movida@2025";
+
+    public static Connection getConnection() throws SQLException {
+        String url = "jdbc:postgresql://db.ztzopxbmpimsduzngpjn.supabase.co:5432/postgres";
+        String user = "postgres";
+
+        try {
+            // Registrar o driver (opcional a partir do JDBC 4.0)
+            Class.forName("org.postgresql.Driver");
+
+            // Estabelecer a conexão
+            Connection connection = DriverManager.getConnection(url, user, PASSWORD);
+            System.out.println("Conexão com o Supabase estabelecida com sucesso!");
+            return connection;
+        } catch (ClassNotFoundException e) {
+            throw new SQLException("Driver JDBC não encontrado", e);
+        }
     }
 
     public List<Prestadores> getPrestadores() {
         List<Prestadores> prestadores = new ArrayList<>();
         String sql = "SELECT \"nome\", \"cnpj_cpf\", \"cod_cliente\", \"uf\", \"cidade\", \"telefone\", \"latlong\" FROM fornecedores";
 
-        try (Connection conn = DriverManager.getConnection(url, user, password);
+        try (Connection conn = getConnection();
              Statement stmt = conn.createStatement();
              ResultSet rs = stmt.executeQuery(sql)) {
 

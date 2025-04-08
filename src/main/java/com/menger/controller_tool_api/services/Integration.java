@@ -58,6 +58,7 @@ public class Integration {
                 Map<String, String> item = new LinkedHashMap<>();
                 item.put("placa", atendimento.getPlaca());
                 item.put("atendimento", atendimento.getTipoAtendimento());
+                item.put("status", atendimento.getStatus());
                 item.put("data", atendimento.getData());
                 item.put("razao_social", atendimento.getFornecedor());
                 item.put("cnpj", atendimento.getCnpj() != null ? atendimento.getCnpj() : "N/A");

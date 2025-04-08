@@ -25,6 +25,6 @@ public class ApiConfiguration {
 
     @Bean
     public DBConnection dbConnection() {
-        return new DBConnection(dbUrl, dbUsername, dbPassword);
+        return new DBConnection();
     }
 }

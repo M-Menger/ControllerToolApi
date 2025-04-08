@@ -14,7 +14,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")  // Aplica a todas as rotas
-                        .allowedOrigins("http://localhost:5173")
+                        .allowedOrigins("http://localhost:5173","https://controllertoolapi-front.onrender.com")
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true)

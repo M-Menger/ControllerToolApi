@@ -25,7 +25,7 @@
                     return ResponseEntity.badRequest().body("Por favor, envie um arquivo!");
                 }
                 if (!file.getOriginalFilename().endsWith(".xlsx")) {
-                    return ResponseEntity.badRequest().body("Apenas arquivos .xlsx são suportados");
+                    return ResponseEntity.badRequest().body("Apenas arquivos .xlsx são suportados!");
                 }
 
                 String jsonResult = integration.processExcelFile(file);

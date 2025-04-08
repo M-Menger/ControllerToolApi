@@ -15,7 +15,7 @@ public class ApiConfiguration {
     @Value("${database.username}")
     private String dbUsername;
 
-    @Value("${database.password}")
+    @Value("${database.PASSWORD}")
     private String dbPassword;
 
     @Bean
@@ -24,7 +24,7 @@ public class ApiConfiguration {
     }
 
     @Bean
-    public DBConnection dbConnection() {
+    public DBConnection getConnection() {
         return new DBConnection();
     }
 }

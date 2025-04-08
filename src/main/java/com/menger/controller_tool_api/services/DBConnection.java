@@ -8,18 +8,16 @@ import java.util.List;
 
 public class DBConnection {
 
-    private static final String PASSWORD = "Movida@2025";
 
     public static Connection getConnection() throws SQLException {
-        String url = "jdbc:postgresql://db.ztzopxbmpimsduzngpjn.supabase.co:5432/postgres";
-        String user = "postgres";
+        String url = "jdbc:postgresql://db.ztzopxbmpimsduzngpjn.supabase.co:5432/postgres?user=postgres&password=Movida@2025";
 
         try {
             // Registrar o driver (opcional a partir do JDBC 4.0)
             Class.forName("org.postgresql.Driver");
 
             // Estabelecer a conexão
-            Connection connection = DriverManager.getConnection(url, user, PASSWORD);
+            Connection connection = DriverManager.getConnection(url);
             System.out.println("Conexão com o Supabase estabelecida com sucesso!");
             return connection;
         } catch (ClassNotFoundException e) {

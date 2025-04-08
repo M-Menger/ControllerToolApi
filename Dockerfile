@@ -6,7 +6,7 @@ COPY pom.xml .
 COPY src src
 
 RUN mvn clean package -DskipTests
-
+RUN apk add --no-cache ca-certificates postgresql-client
 # Estágio de execução
 FROM eclipse-temurin:17-jre-alpine
 WORKDIR /app
@@ -16,4 +16,4 @@ COPY --from=build /workspace/app/target/controller-tool-api-*.jar app.jar
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENTRYPOINT ["java", "-Djavax.net.ssl.trustStore=/etc/ssl/certs/java/cacerts", "-jar", "app.jar"]

@@ -1,33 +1,42 @@
 package com.menger.controller_tool_api.services;
 
 import com.menger.controller_tool_api.models.Prestadores;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Service;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+@Service
 public class DBConnection {
 
+    @Value("${spring.datasource.url}")
+    private String dbUrl;
 
-    public static Connection getConnection() throws SQLException {
-        String url = "jdbc:postgresql://db.ztzopxbmpimsduzngpjn.supabase.co:5432/postgres?user=postgres&password=Movida@2025";
+    @Value("${spring.datasource.username}")
+    private String user;
 
+    @Value("${spring.datasource.password}")
+    private String pass;
+
+    public Connection getConnection() throws SQLException {
         try {
-            // Registrar o driver (opcional a partir do JDBC 4.0)
-            Class.forName("org.postgresql.Driver");
-
-            // Estabelecer a conexão
-            Connection connection = DriverManager.getConnection(url);
-            System.out.println("Conexão com o Supabase estabelecida com sucesso!");
-            return connection;
-        } catch (ClassNotFoundException e) {
-            throw new SQLException("Driver JDBC não encontrado", e);
+            DriverManager.setLoginTimeout(10);
+            return DriverManager.getConnection(dbUrl, user, pass);
+        } catch (SQLException e) {
+            System.err.println("Erro detalhado:");
+            System.err.println("URL: " + dbUrl);
+            System.err.println("SQL State: " + e.getSQLState());
+            System.err.println("Error Code: " + e.getErrorCode());
+            System.err.println("Message: " + e.getMessage());
+            throw e;
         }
     }
 
     public List<Prestadores> getPrestadores() {
         List<Prestadores> prestadores = new ArrayList<>();
-        String sql = "SELECT \"nome\", \"cnpj_cpf\", \"cod_cliente\", \"uf\", \"cidade\", \"telefone\", \"latlong\" FROM fornecedores";
+        String sql = "SELECT \"cnpj_cpf\", \"cod_cliente\", \"uf\", \"cidade\", \"telefone\", \"latlong\" FROM fornecedores";
 
         try (Connection conn = getConnection();
              Statement stmt = conn.createStatement();
@@ -35,7 +44,6 @@ public class DBConnection {
 
             while (rs.next()) {
                 Prestadores prestador = new Prestadores();
-                prestador.setRazaoSocial(rs.getString("nome"));
                 prestador.setCodsap(rs.getString("cod_cliente"));
                 prestador.setCnpj(rs.getString("cnpj_cpf"));
                 prestador.setEstado(rs.getString("uf"));

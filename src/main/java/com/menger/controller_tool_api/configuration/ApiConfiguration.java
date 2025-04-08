@@ -12,11 +12,6 @@ public class ApiConfiguration {
     @Value("${database.url}")
     private String dbUrl;
 
-    @Value("${database.username}")
-    private String dbUsername;
-
-    @Value("${database.PASSWORD}")
-    private String dbPassword;
 
     @Bean
     public ExcelReader excelReader() {

@@ -1,19 +1,18 @@
-# Estágio de build
-FROM maven:3.9.6-eclipse-temurin-17-alpine AS build
-WORKDIR /workspace/app
+FROM maven:3.9.7-amazoncorretto-17 AS build
 
-COPY pom.xml .
-COPY src src
+COPY src /app/src
+COPY pom.xml /app
 
-RUN mvn clean package -DskipTests
-
-# Estágio de execução
-FROM eclipse-temurin:17-jre-alpine
 WORKDIR /app
 
-# Verifique o nome exato do arquivo JAR no diretório target
-COPY --from=build /workspace/app/target/ControllerToolApi-*.jar app.jar
+RUN mvn clean install
+
+FROM amazoncorretto:17-alpine-jdk
+
+COPY --from=build /app/target/controller-tool-api-0.0.1-SNAPSHOT.jar /app/app.jar
+
+WORKDIR /app
 
 EXPOSE 8080
 
-ENTRYPOINT ["java", "-jar", "app.jar"]
+CMD ["java", "-jar", "app.jar"]
